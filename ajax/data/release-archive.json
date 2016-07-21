@@ -1,0 +1,2088 @@
+{
+    "data": [{
+        "ID": "16-36",
+        "Title": "Real Personal Income for States and Metropolitan Areas",
+        "URL": "http://www.bea.gov/newsreleases/regional/rpp/2016/rpp0716.htm",
+        "Date_Published": "2016-07-07"
+    }, {
+        "ID": "16-35",
+        "Title": "U.S. International Trade in Goods and Services, May 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0516.htm",
+        "Date_Published": "2016-07-06"
+    }, {
+        "ID": "16-34",
+        "Title": "U.S. International Investment Position, 1st quarter 2016, annual 2015, and annual revisions",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/2016/intinv116.htm",
+        "Date_Published": "2016-06-30"
+    }, {
+        "ID": "16-33",
+        "Title": "Personal Income and Outlays, May 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0516.htm",
+        "Date_Published": "2016-06-29"
+    }, {
+        "ID": "16-32",
+        "Title": "Gross Domestic Product, 1st quarter 2016 (third estimate); Corporate Profits, 1st quarter 2016 (revised estimate)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp1q16_3rd.htm",
+        "Date_Published": "2016-06-28"
+    }, {
+        "ID": "16-31",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2016 and annual revisions",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2016/tour116.htm",
+        "Date_Published": "2016-06-23"
+    }, {
+        "ID": "16-30",
+        "Title": "State Quarterly Personal Income, 1st quarter 2016",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2016/spi0616.htm",
+        "Date_Published": "2016-06-22"
+    }, {
+        "ID": "16-29",
+        "Title": "U.S. International Transactions, 1st quarter 2016 and Annual Revisions",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2016/trans116.htm",
+        "Date_Published": "2016-06-16"
+    }, {
+        "ID": "16-28",
+        "Title": "Gross Domestic Product by State, 4th quarter and annual 2015",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2016/qgsp0616.htm",
+        "Date_Published": "2016-06-14"
+    }, {
+        "ID": "16-27",
+        "Title": "U.S. International Trade in Goods and Services, 2015 Annual Revision",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad1316.htm",
+        "Date_Published": "2016-06-03"
+    }, {
+        "ID": "16-26",
+        "Title": "U.S. International Trade in Goods and Services, April 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0416.htm",
+        "Date_Published": "2016-06-03"
+    }, {
+        "ID": "16-25",
+        "Title": "Personal Income and Outlays, April 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0416.htm",
+        "Date_Published": "2016-05-31"
+    }, {
+        "ID": "16-24",
+        "Title": "Gross Domestic Product, 1st quarter 2016 (second estimate); Corporate Profits, 1st quarter 2016 (preliminary estimate)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp1q16_2nd.htm",
+        "Date_Published": "2016-05-27"
+    }, {
+        "ID": "16-23",
+        "Title": "U.S. International Trade in Goods and Services, March 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0316.htm",
+        "Date_Published": "2016-05-04"
+    }, {
+        "ID": "16-22",
+        "Title": "Personal Income and Outlays, March 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0316.htm",
+        "Date_Published": "2016-04-29"
+    }, {
+        "ID": "16-21",
+        "Title": "Gross Domestic Product, 1st quarter 2016 (advance estimate)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp1q16_adv.htm",
+        "Date_Published": "2016-04-28"
+    }, {
+        "ID": "16-20",
+        "Title": "Gross Domestic Product by Industry, 4th quarter and annual 2015",
+        "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2016/gdpind415.htm",
+        "Date_Published": "2016-04-21"
+    }, {
+        "ID": "16-19",
+        "Title": "U.S. International Trade in Goods and Services, February 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0216.htm",
+        "Date_Published": "2016-04-05"
+    }, {
+        "ID": "16-18",
+        "Title": "U.S. International Investment Position, 4th quarter 2015",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/2016/intinv415.htm",
+        "Date_Published": "2016-03-31"
+    }, {
+        "ID": "16-17",
+        "Title": "Personal Income and Outlays, February 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0216.htm",
+        "Date_Published": "2016-03-28"
+    }, {
+        "ID": "16-16",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2015 (third estimate); Corporate Profits, 4th quarter and annual 2015",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp4q15_3rd.htm",
+        "Date_Published": "2016-03-25"
+    }, {
+        "ID": "16-15",
+        "Title": "State Quarterly Personal Income, 1st quarter 2015 - 4th quarter 2015; State Annual Personal Income, 2015 (preliminary estimate)",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2016/spi0316.htm",
+        "Date_Published": "2016-03-24"
+    }, {
+        "ID": "16-14",
+        "Title": "U.S. International Transactions, 4th quarter and Year 2015",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2016/trans415.htm",
+        "Date_Published": "2016-03-17"
+    }, {
+        "ID": "16-13",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter 2015",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2016/tour415.htm",
+        "Date_Published": "2016-03-16"
+    }, {
+        "ID": "16-12",
+        "Title": "U.S. International Trade in Goods and Services, January 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0116.htm",
+        "Date_Published": "2016-03-04"
+    }, {
+        "ID": "16-11",
+        "Title": "Gross Domestic Product by State, 3rd quarter 2015",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2016/qgsp0316.htm",
+        "Date_Published": "2016-03-02"
+    }, {
+        "ID": "16-10",
+        "Title": "Gross Domestic Product for the Commonwealth of the Northern Mariana Islands (CNMI), 2014",
+        "URL": "http://www.bea.gov/newsreleases/general/terr/2016/CNMIGDP_022816.pdf",
+        "Date_Published": "2016-02-28"
+    }, {
+        "ID": "16-09",
+        "Title": "Personal Income and Outlays, January 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0116.htm",
+        "Date_Published": "2016-02-26"
+    }, {
+        "ID": "16-08",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2015 (second estimate)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp4q15_2nd.htm",
+        "Date_Published": "2016-02-26"
+    }, {
+        "ID": "16-07",
+        "Title": "Arts and Cultural Production Satellite Account, 2013",
+        "URL": "http://www.bea.gov/newsreleases/general/acpsa/acpsa0216.pdf",
+        "Date_Published": "2016-02-16"
+    }, {
+        "ID": "16-06",
+        "Title": "U.S. International Trade in Goods and Services, December 2015",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad1215.htm",
+        "Date_Published": "2016-02-05"
+    }, {
+        "ID": "16-05",
+        "Title": "Personal Income and Outlays, December 2015",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi1215.htm",
+        "Date_Published": "2016-02-01"
+    }, {
+        "ID": "16-04",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2015 (advance estimate)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp4q15_adv.htm",
+        "Date_Published": "2016-01-29"
+    }, {
+        "ID": "16-03",
+        "Title": "Gross Domestic Product by Industry, 3rd quarter 2015",
+        "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2016/gdpind315.htm",
+        "Date_Published": "2016-01-21"
+    }, {
+        "ID": "16-02",
+        "Title": "Gross Domestic Product for American Samoa, 2014",
+        "URL": "http://www.bea.gov/newsreleases/general/terr/2016/asgdp_011316.pdf",
+        "Date_Published": "2016-01-13"
+    }, {
+        "ID": "16-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2015",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad1115.htm",
+        "Date_Published": "2016-01-06"
+    }, {
+        "ID": "15-68",
+        "Title": "U.S. International Investment Position, 3rd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2015/intinv315.htm",
+        "Date_Published": "2015-12-29"
+    }, {
+        "ID": "15-67",
+        "Title": "Personal Income and Outlays, November 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi1115.htm",
+        "Date_Published": "2015-12-23"
+    }, {
+        "ID": "15-66",
+        "Title": "Gross Domestic Product, 3rd quarter 2015 (third estimate); Corporate Profits, 3rd quarter 2015 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp3q15_3rd.htm",
+        "Date_Published": "2015-12-22"
+    }, {
+        "ID": "15-65",
+        "Title": "State Quarterly Personal Income, 1st quarter 2015 - 3rd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2015/spi1215.htm",
+        "Date_Published": "2015-12-21"
+    }, {
+        "ID": "15-64",
+        "Title": "U.S. International Transactions, 3rd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2015/trans315.htm",
+        "Date_Published": "2015-12-17"
+    }, {
+        "ID": "15-63",
+        "Title": "Gross Domestic Product for U.S. Virgin Islands (USVI), 2014",
+        "URL": "http://bea.gov/newsreleases/general/terr/2015/vigdp_121615.pdf",
+        "Date_Published": "2015-12-16"
+    }, {
+        "ID": "15-62",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2015/tour315.htm",
+        "Date_Published": "2015-12-16"
+    }, {
+        "ID": "15-61",
+        "Title": "Gross Domestic Product by State, 2nd Quarter 2015",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2015/qgsp1215.htm",
+        "Date_Published": "2015-12-10"
+    }, {
+        "ID": "15-60",
+        "Title": "U.S. International Trade in Goods and Services, October 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad1015.htm",
+        "Date_Published": "2015-12-04"
+    }, {
+        "ID": "15-59",
+        "Title": "Gross Domestic Product for Guam, 2014",
+        "URL": "http://bea.gov/newsreleases/general/terr/2015/guamgdp_120215.pdf",
+        "Date_Published": "2015-12-02"
+    }, {
+        "ID": "15-58",
+        "Title": "Personal Consumption Expenditures by State, 1997-2014",
+        "URL": "http://bea.gov/newsreleases/regional/pce/2015/pce1215.htm",
+        "Date_Published": "2015-12-01"
+    }, {
+        "ID": "15-57",
+        "Title": "New Foreign Direct Investment in the United States, 2014",
+        "URL": "http://bea.gov/newsreleases/international/fdi/2015/fdi1115.htm",
+        "Date_Published": "2015-11-30"
+    }, {
+        "ID": "15-56",
+        "Title": "Personal Income and Outlays, October 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi1015.htm",
+        "Date_Published": "2015-11-25"
+    }, {
+        "ID": "15-55",
+        "Title": "Gross Domestic Product, 3rd quarter 2015 (second estimate); Corporate Profits, 3rd quarter 2015 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp3q15_2nd.htm",
+        "Date_Published": "2015-11-24"
+    }, {
+        "ID": "15-54",
+        "Title": "Local Area Personal Income, 2012 - 2014",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2015/lapi1115.htm",
+        "Date_Published": "2015-11-19"
+    }, {
+        "ID": "15-53",
+        "Title": "Gross Domestic Product by Industry, 2nd quarter, 2015",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2015/gdpind215.htm",
+        "Date_Published": "2015-11-05"
+    }, {
+        "ID": "15-52",
+        "Title": "U.S. International Trade in Goods and Services, September 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0915.htm",
+        "Date_Published": "2015-11-04"
+    }, {
+        "ID": "15-51",
+        "Title": "Personal Income and Outlays, September 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0915.htm",
+        "Date_Published": "2015-10-30"
+    }, {
+        "ID": "15-50",
+        "Title": "Gross Domestic Product, 3rd quarter 2015 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp3q15_adv.htm",
+        "Date_Published": "2015-10-29"
+    }, {
+        "ID": "15-49",
+        "Title": "U.S. International Trade in Goods and Services, August 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0815.htm",
+        "Date_Published": "2015-10-06"
+    }, {
+        "ID": "15-48",
+        "Title": "State Quarterly Personal Income, 1st quarter 2012 - 2nd quarter 2015; State Annual Personal Income, 2012 - 2014",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2015/spi0915.htm",
+        "Date_Published": "2015-09-30"
+    }, {
+        "ID": "15-47",
+        "Title": "U.S. International Investment Position, 2nd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2015/intinv215.htm",
+        "Date_Published": "2015-09-29"
+    }, {
+        "ID": "15-46",
+        "Title": "Personal Income and Outlays, August 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0815.htm",
+        "Date_Published": "2015-09-28"
+    }, {
+        "ID": "15-45",
+        "Title": "Gross Domestic Product, 2nd quarter 2015 (third estimate); Corporate Profits, 2nd quarter 2015 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp2q15_3rd.htm",
+        "Date_Published": "2015-09-25"
+    }, {
+        "ID": "15-44",
+        "Title": "Gross Domestic Product by Metropolitan Area, Advance 2014 and Revised 2001-2013",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2015/gdp_metro0915.htm",
+        "Date_Published": "2015-09-23"
+    }, {
+        "ID": "15-43",
+        "Title": "U.S. International Transactions, 2nd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2015/trans215.htm",
+        "Date_Published": "2015-09-17"
+    }, {
+        "ID": "15-42",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2015",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2015/tour215.htm",
+        "Date_Published": "2015-09-16"
+    }, {
+        "ID": "15-41",
+        "Title": "U.S. International Trade in Goods and Services, July 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0715.htm",
+        "Date_Published": "2015-09-03"
+    }, {
+        "ID": "15-40",
+        "Title": "Gross Domestic Product by State, 1st Quarter of 2005 through 4th quarter of 2014 (prototype statistic)",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2015/qgsp0915.htm",
+        "Date_Published": "2015-09-02"
+    }, {
+        "ID": "15-39",
+        "Title": "Personal Income and Outlays, July 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0715.htm",
+        "Date_Published": "2015-08-28"
+    }, {
+        "ID": "15-38",
+        "Title": "Gross Domestic Product, 2nd quarter 2015 (second estimate); Corporate Profits, 2nd quarter 2015 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp2q15_2nd.htm",
+        "Date_Published": "2015-08-27"
+    }, {
+        "ID": "15-37",
+        "Title": "U.S. International Trade in Goods and Services, June 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0615.htm",
+        "Date_Published": "2015-08-05"
+    }, {
+        "ID": "15-36",
+        "Title": "Personal Income and Outlays, June 2015; Includes historical revisions",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0615.htm",
+        "Date_Published": "2015-08-03"
+    }, {
+        "ID": "15-35",
+        "Title": "Gross Domestic Product, 2nd quarter 2015 (advance estimate); Includes historical revisions",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp2q15_adv.htm",
+        "Date_Published": "2015-07-30"
+    }, {
+        "ID": "15-34",
+        "Title": "Gross Domestic Product by Industry, 1st quarter, 2015",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2015/gdpind115.htm",
+        "Date_Published": "2015-07-23"
+    }, {
+        "ID": "15-33",
+        "Title": "U.S. International Trade in Goods and Services, May 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0515.htm",
+        "Date_Published": "2015-07-07"
+    }, {
+        "ID": "15-32",
+        "Title": "Real Personal Income for States and Metropolitan Areas, 2013",
+        "URL": "http://bea.gov/newsreleases/regional/rpp/2015/rpp0615.htm",
+        "Date_Published": "2015-07-01"
+    }, {
+        "ID": "15-31",
+        "Title": "U.S. International Investment Position, 1st quarter 2015, Year 2014, and Annual Revisions",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2015/intinv115.htm",
+        "Date_Published": "2015-06-30"
+    }, {
+        "ID": "15-30",
+        "Title": "Personal Income and Outlays, May 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0515.htm",
+        "Date_Published": "2015-06-25"
+    }, {
+        "ID": "15-29",
+        "Title": "Gross Domestic Product, 1st quarter 2015 (third estimate); Corporate Profits, 1st quarter 2015 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp1q15_3rd.htm",
+        "Date_Published": "2015-06-24"
+    }, {
+        "ID": "15-28",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2015",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2015/tour115.htm",
+        "Date_Published": "2015-06-23"
+    }, {
+        "ID": "15-27",
+        "Title": "State Quarterly Personal Income, 1st quarter 2014 - 1st quarter 2015",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2015/spi0615.htm",
+        "Date_Published": "2015-06-22"
+    }, {
+        "ID": "15-26",
+        "Title": "U.S. International Transactions, 1st quarter 2015 and Annual Revisions",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2015/trans115.htm",
+        "Date_Published": "2015-06-18"
+    }, {
+        "ID": "15-25",
+        "Title": "Gross Domestic Product by State, Advance 2014 and Revised 1997-2013",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2015/gsp0615.htm",
+        "Date_Published": "2015-06-10"
+    }, {
+        "ID": "15-23",
+        "Title": "U.S. International Trade in Goods and Services, April 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0415.htm",
+        "Date_Published": "2015-06-03"
+    }, {
+        "ID": "15-22",
+        "Title": "Personal Income and Outlays, April 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0415.htm",
+        "Date_Published": "2015-06-01"
+    }, {
+        "ID": "15-21",
+        "Title": "Gross Domestic Product, 1st quarter 2015 (second estimate); Corporate Profits, 1st quarter 2015 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp1q15_2nd.htm",
+        "Date_Published": "2015-05-29"
+    }, {
+        "ID": "15-20",
+        "Title": "U.S. International Trade in Goods and Services, March 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0315.htm",
+        "Date_Published": "2015-05-05"
+    }, {
+        "ID": "15-19",
+        "Title": "Personal Income and Outlays, March 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0315.htm",
+        "Date_Published": "2015-04-30"
+    }, {
+        "ID": "15-18",
+        "Title": "Gross Domestic Product, 1st quarter 2015 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp1q15_adv.htm",
+        "Date_Published": "2015-04-29"
+    }, {
+        "ID": "15-17",
+        "Title": "Gross Domestic Product by Industry, 4th quarter and annual 2014",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2015/gdpind414.htm",
+        "Date_Published": "2015-04-23"
+    }, {
+        "ID": "15-16",
+        "Title": "U.S. International Trade in Goods and Services, February 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0215.htm",
+        "Date_Published": "2015-04-02"
+    }, {
+        "ID": "15-15",
+        "Title": "U.S. International Investment Position, 4th quarter 2014",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2015/intinv414.htm",
+        "Date_Published": "2015-03-31"
+    }, {
+        "ID": "15-14",
+        "Title": "Personal Income and Outlays, February 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0215.htm",
+        "Date_Published": "2015-03-30"
+    }, {
+        "ID": "15-13",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2014 (third estimate); Corporate Profits, 4th quarter and annual 2014",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp4q14_3rd.htm",
+        "Date_Published": "2015-03-27"
+    }, {
+        "ID": "15-12",
+        "Title": "State Quarterly Personal Income, 1st quarter 2014 - 4th quarter 2014; State Annual Personal Income, 2014 (preliminary estimates)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2015/spi0315.htm",
+        "Date_Published": "2015-03-25"
+    }, {
+        "ID": "15-11",
+        "Title": "U.S. International Transactions, 4th quarter and Year 2014",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2015/trans414.htm",
+        "Date_Published": "2015-03-19"
+    }, {
+        "ID": "15-10",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2015/tour414.htm",
+        "Date_Published": "2015-03-18"
+    }, {
+        "ID": "15-09",
+        "Title": "U.S. International Trade in Goods and Services, January 2015",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad0115.htm",
+        "Date_Published": "2015-03-06"
+    }, {
+        "ID": "15-08",
+        "Title": "Personal Income and Outlays, January 2015",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi0115.htm",
+        "Date_Published": "2015-03-02"
+    }, {
+        "ID": "15-07",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2014 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp4q14_2nd.htm",
+        "Date_Published": "2015-02-27"
+    }, {
+        "ID": "15-06",
+        "Title": "U.S. International Trade in Goods and Services, December 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad1214.htm",
+        "Date_Published": "2015-02-05"
+    }, {
+        "ID": "15-05",
+        "Title": "Personal Income and Outlays, December 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2015/pi1214.htm",
+        "Date_Published": "2015-02-02"
+    }, {
+        "ID": "15-04",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2014 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2015/gdp4q14_adv.htm",
+        "Date_Published": "2015-01-30"
+    }, {
+        "ID": "15-03",
+        "Title": "Gross Domestic Product by Industry, 3rd quarter, 2014",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2015/gdpind314.htm",
+        "Date_Published": "2015-01-22"
+    }, {
+        "ID": "15-02",
+        "Title": "Arts and Cultural Production Satellite Account",
+        "URL": "http://bea.gov/newsreleases/general/acpsa/acpsa0115.pdf",
+        "Date_Published": "2015-01-12"
+    }, {
+        "ID": "15-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2015/trad1114.htm",
+        "Date_Published": "2015-01-07"
+    }, {
+        "ID": "14-67",
+        "Title": "U.S. International Investment Position, 3rd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2014/intinv314.htm",
+        "Date_Published": "2014-12-30"
+    }, {
+        "ID": "14-66",
+        "Title": "Personal Income and Outlays, November 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi1114.htm",
+        "Date_Published": "2014-12-23"
+    }, {
+        "ID": "14-65",
+        "Title": "Gross Domestic Product, 3rd quarter 2014 (third estimate); Corporate Profits, 3rd quarter 2014 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp3q14_3rd.htm",
+        "Date_Published": "2014-12-23"
+    }, {
+        "ID": "14-64",
+        "Title": "State Quarterly Personal Income, 1st quarter 2014-3rd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2014/spi1214.htm",
+        "Date_Published": "2014-12-19"
+    }, {
+        "ID": "14-63",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2014/tour314.htm",
+        "Date_Published": "2014-12-18"
+    }, {
+        "ID": "14-62",
+        "Title": "U.S. International Transactions, 3rd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2014/trans314.htm",
+        "Date_Published": "2014-12-17"
+    }, {
+        "ID": "14-61",
+        "Title": "U.S. International Trade in Goods and Services, October 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad1014.htm",
+        "Date_Published": "2014-12-05"
+    }, {
+        "ID": "14-60",
+        "Title": "Personal Income and Outlays, October 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi1014.htm",
+        "Date_Published": "2014-11-26"
+    }, {
+        "ID": "14-59",
+        "Title": "Gross Domestic Product, 3rd quarter 2014 (second estimate); Corporate Profits, 3rd quarter 2014 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp3q14_2nd.htm",
+        "Date_Published": "2014-11-25"
+    }, {
+        "ID": "14-58",
+        "Title": "Local Area Personal Income, 2011-2013",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2014/lapi1114.htm",
+        "Date_Published": "2014-11-20"
+    }, {
+        "ID": "14-57",
+        "Title": "Gross Domestic Product for Guam, 2013",
+        "URL": "http://bea.gov/newsreleases/general/terr/2014/guamgdp_111914.pdf",
+        "Date_Published": "2014-11-19"
+    }, {
+        "ID": "14-56",
+        "Title": "Gross Domestic Product for the Commonwealth of the Northern Mariana Islands (CNMI), 2013",
+        "URL": "http://bea.gov/newsreleases/general/terr/2014/CNMIGDP_111714.pdf",
+        "Date_Published": "2014-11-17"
+    }, {
+        "ID": "14-55",
+        "Title": "Gross Domestic Product by Industry, 2nd quarter 2014; Revised Statistics of Gross Domestic Product by Industry for 1997 through 1st quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2014/gdpind214.htm",
+        "Date_Published": "2014-11-13"
+    }, {
+        "ID": "14-54",
+        "Title": "U.S. International Trade in Goods and Services, September 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0914.htm",
+        "Date_Published": "2014-11-04"
+    }, {
+        "ID": "14-53",
+        "Title": "Personal Income and Outlays, September 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0914.htm",
+        "Date_Published": "2014-10-31"
+    }, {
+        "ID": "14-52",
+        "Title": "Gross Domestic Product, 3rd quarter 2014 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp3q14_adv.htm",
+        "Date_Published": "2014-10-30"
+    }, {
+        "ID": "14-51",
+        "Title": "U.S. International Trade in Goods and Services, August 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0814.htm",
+        "Date_Published": "2014-10-03"
+    }, {
+        "ID": "14-50",
+        "Title": "State Quarterly Personal Income, 1st quarter 2011-2nd quarter 2014; State Annual Personal Income, 2011-2013",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2014/spi0914.htm",
+        "Date_Published": "2014-09-30"
+    }, {
+        "ID": "14-49",
+        "Title": "Personal Income and Outlays, August 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0814.htm",
+        "Date_Published": "2014-09-29"
+    }, {
+        "ID": "14-48",
+        "Title": "Gross Domestic Product, 2nd quarter 2014 (third estimate); Corporate Profits, 2nd quarter 2014 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp2q14_3rd.htm",
+        "Date_Published": "2014-09-26"
+    }, {
+        "ID": "14-47",
+        "Title": "U.S. International Investment Position, 2nd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2014/intinv214.htm",
+        "Date_Published": "2014-09-25"
+    }, {
+        "ID": "14-46",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2014/tour214.htm",
+        "Date_Published": "2014-09-18"
+    }, {
+        "ID": "14-45",
+        "Title": "U.S. International Transactions, 2nd quarter 2014",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2014/trans214.htm",
+        "Date_Published": "2014-09-17"
+    }, {
+        "ID": "14-44",
+        "Title": "Gross Domestic Product by Metropolitan Area, 2013 (advance estimate) and Revised 2001 - 2012",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2014/gdp_metro0914.htm",
+        "Date_Published": "2014-09-16"
+    }, {
+        "ID": "14-43",
+        "Title": "Gross Domestic Product for American Samoa, 2013",
+        "URL": "http://bea.gov/newsreleases/general/terr/2014/asgdp_091514.pdf",
+        "Date_Published": "2014-09-15"
+    }, {
+        "ID": "14-42",
+        "Title": "U.S. International Trade in Goods and Services, July 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0714.htm",
+        "Date_Published": "2014-09-04"
+    }, {
+        "ID": "14-41",
+        "Title": "Personal Income and Outlays, July 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0714.htm",
+        "Date_Published": "2014-08-29"
+    }, {
+        "ID": "14-40",
+        "Title": "Gross Domestic Product, 2nd quarter 2014 (second estimate); Corporate Profits, 2nd quarter 2014 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp2q14_2nd.htm",
+        "Date_Published": "2014-08-28"
+    }, {
+        "ID": "14-39",
+        "Title": "Quarterly Gross Domestic Product by State, 2005-2013 (prototype statistic) New!",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2014/qgsp0814.htm",
+        "Date_Published": "2014-08-20"
+    }, {
+        "ID": "14-38",
+        "Title": "Gross Domestic Product for U.S. Virgin Islands (USVI), 2013",
+        "URL": "http://bea.gov/newsreleases/general/terr/2014/vigdp_081914.pdf",
+        "Date_Published": "2014-08-19"
+    }, {
+        "ID": "14-37",
+        "Title": "Personal Consumption Expenditures by State, 1997-2012 (prototype statistic) New!",
+        "URL": "http://bea.gov/newsreleases/regional/pce/2014/pce0814.htm",
+        "Date_Published": "2014-08-07"
+    }, {
+        "ID": "14-36",
+        "Title": "U.S. International Trade in Goods and Services, June 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0614.htm",
+        "Date_Published": "2014-08-06"
+    }, {
+        "ID": "14-35",
+        "Title": "Personal Income and Outlays, June 2014; Revised estimates 1999 through May 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0614.htm",
+        "Date_Published": "2014-08-01"
+    }, {
+        "ID": "14-34",
+        "Title": "Gross Domestic Product, 2nd quarter 2014 (advance estimate); Includes historical revisions",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp2q14_adv.htm",
+        "Date_Published": "2014-07-30"
+    }, {
+        "ID": "14-33",
+        "Title": "Gross Domestic Product by Industry, 1st quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2014/gdpind114.htm",
+        "Date_Published": "2014-07-25"
+    }, {
+        "ID": "14-32",
+        "Title": "U.S. International Trade in Goods and Services, May 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0514.htm",
+        "Date_Published": "2014-07-03"
+    }, {
+        "ID": "14-31",
+        "Title": "U.S. International Investment Position, 1st quarter 2014, year 2013, and annual revisions",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2014/intinv114.htm",
+        "Date_Published": "2014-06-30"
+    }, {
+        "ID": "14-30",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2014",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2014/tour114.htm",
+        "Date_Published": "2014-06-27"
+    }, {
+        "ID": "14-29",
+        "Title": "Personal Income and Outlays, May 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0514.htm",
+        "Date_Published": "2014-06-26"
+    }, {
+        "ID": "14-28",
+        "Title": "Gross Domestic Product, 1st quarter 2014 (third estimate); Corporate Profits, 1st quarter 2014 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp1q14_3rd.htm",
+        "Date_Published": "2014-06-25"
+    }, {
+        "ID": "14-27",
+        "Title": "State Quarterly Personal Income, 1st quarter 2013-1st quarter 2014",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2014/spi0614.htm",
+        "Date_Published": "2014-06-24"
+    }, {
+        "ID": "14-26",
+        "Title": "U.S. International Transactions, 1st quarter 2014 and Annual Revisions",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2014/trans114.htm",
+        "Date_Published": "2014-06-18"
+    }, {
+        "ID": "14-25",
+        "Title": "Gross Domestic Product by State, 2013 (advance estimate) and 1997-2012 (revised estimates)",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2014/gsp0614.htm",
+        "Date_Published": "2014-06-11"
+    }, {
+        "ID": "14-23",
+        "Title": "U.S. International Trade in Goods and Services, April 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0414.htm",
+        "Date_Published": "2014-06-04"
+    }, {
+        "ID": "14-22",
+        "Title": "Personal Income and Outlays, April 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0414.htm",
+        "Date_Published": "2014-05-30"
+    }, {
+        "ID": "14-21",
+        "Title": "Gross Domestic Product, 1st quarter 2014 (second estimate); Corporate Profits, 1st quarter 2014 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp1q14_2nd.htm",
+        "Date_Published": "2014-05-29"
+    }, {
+        "ID": "14-20",
+        "Title": "U.S. International Trade in Goods and Services, March 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0314.htm",
+        "Date_Published": "2014-05-06"
+    }, {
+        "ID": "14-19",
+        "Title": "Personal Income and Outlays, March 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0314.htm",
+        "Date_Published": "2014-05-01"
+    }, {
+        "ID": "14-18",
+        "Title": "Gross Domestic Product, 1st quarter 2014 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp1q14_adv.htm",
+        "Date_Published": "2014-04-30"
+    }, {
+        "ID": "14-17",
+        "Title": "Gross Domestic Product by Industry, 4th quarter and annual 2013",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2014/gdpind413.htm",
+        "Date_Published": "2014-04-25"
+    }, {
+        "ID": "14-16",
+        "Title": "Real Personal Income for States and Metropolitan Areas, 2008-2012",
+        "URL": "http://bea.gov/newsreleases/regional/rpp/2014/rpp0414.htm",
+        "Date_Published": "2014-04-24"
+    }, {
+        "ID": "14-15",
+        "Title": "U.S. International Trade in Goods and Services, February 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0214.htm",
+        "Date_Published": "2014-04-03"
+    }, {
+        "ID": "14-14",
+        "Title": "Personal Income and Outlays, February 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0214.htm",
+        "Date_Published": "2014-03-28"
+    }, {
+        "ID": "14-13",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2013 (third estimate); Corporate Profits, 4th quarter and annual 2013",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp4q13_3rd.htm",
+        "Date_Published": "2014-03-27"
+    }, {
+        "ID": "14-12",
+        "Title": "U.S. International Investment Position, 4th quarter and year 2013",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2014/intinv413.htm",
+        "Date_Published": "2014-03-26"
+    }, {
+        "ID": "14-11",
+        "Title": "State Quarterly Personal Income, 1st quarter 2013-4th quarter 2013; State Annual Personal Income, 2013 (preliminary estimates)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2014/spi0314.htm",
+        "Date_Published": "2014-03-25"
+    }, {
+        "ID": "14-10",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter 2013",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2014/tour413.htm",
+        "Date_Published": "2014-03-20"
+    }, {
+        "ID": "14-09",
+        "Title": "U.S. International Transactions, 4th quarter and year 2013",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2014/trans413.htm",
+        "Date_Published": "2014-03-19"
+    }, {
+        "ID": "14-08",
+        "Title": "U.S. International Trade in Goods and Services, January 2014",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad0114.htm",
+        "Date_Published": "2014-03-07"
+    }, {
+        "ID": "14-07",
+        "Title": "Personal Income and Outlays, January 2014",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi0114.htm",
+        "Date_Published": "2014-03-03"
+    }, {
+        "ID": "14-06",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2013 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp4q13_2nd.htm",
+        "Date_Published": "2014-02-28"
+    }, {
+        "ID": "14-05",
+        "Title": "U.S. International Trade in Goods and Services, December 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad1213.htm",
+        "Date_Published": "2014-02-06"
+    }, {
+        "ID": "14-04",
+        "Title": "Personal Income and Outlays, December 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2014/pi1213.htm",
+        "Date_Published": "2014-01-31"
+    }, {
+        "ID": "14-03",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2013 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2014/gdp4q13_adv.htm",
+        "Date_Published": "2014-01-30"
+    }, {
+        "ID": "14-02",
+        "Title": "Comprehensive Revision of the Annual Industry Accounts, 2014",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2014/gdpind12_rev.htm",
+        "Date_Published": "2014-01-23"
+    }, {
+        "ID": "14-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2014/trad1113.htm",
+        "Date_Published": "2014-01-07"
+    }, {
+        "ID": "13-66",
+        "Title": "U.S. International Investment Position, 3rd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2013/intinv313.htm",
+        "Date_Published": "2013-12-30"
+    }, {
+        "ID": "13-65",
+        "Title": "Personal Income and Outlays, November 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi1113.htm",
+        "Date_Published": "2013-12-23"
+    }, {
+        "ID": "13-64",
+        "Title": "Gross Domestic Product, 3rd quarter 2013 (third estimate); Corporate Profits, 3rd quarter 2013 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp3q13_3rd.htm",
+        "Date_Published": "2013-12-20"
+    }, {
+        "ID": "13-63",
+        "Title": "State Quarterly Personal Income, 1st quarter 2013-3rd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2013/spi1213.htm",
+        "Date_Published": "2013-12-19"
+    }, {
+        "ID": "13-62",
+        "Title": "2007 Benchmark Input-Output Account",
+        "URL": "http://bea.gov/newsreleases/industry/io/2013/io1213.htm",
+        "Date_Published": "2013-12-18"
+    }, {
+        "ID": "13-61",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2013/tour313.htm",
+        "Date_Published": "2013-12-18"
+    }, {
+        "ID": "13-60",
+        "Title": "U.S. International Transactions, 3rd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2013/trans313.htm",
+        "Date_Published": "2013-12-17"
+    }, {
+        "ID": "13-59",
+        "Title": "Personal Income and Outlays, October 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi1013.htm",
+        "Date_Published": "2013-12-06"
+    }, {
+        "ID": "13-57",
+        "Title": "Gross Domestic Product, 3rd quarter 2013 (second estimate); Corporate Profits, 3rd quarter 2013 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp3q13_2nd.htm",
+        "Date_Published": "2013-12-05"
+    }, {
+        "ID": "13-56",
+        "Title": "Gross Domestic Product for Guam, 2011-2012",
+        "URL": "http://bea.gov/newsreleases/general/terr/2013/guamgdp_120413.pdf",
+        "Date_Published": "2013-12-04"
+    }, {
+        "ID": "13-55",
+        "Title": "U.S. International Trade in Goods and Services, October 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad1013.htm",
+        "Date_Published": "2013-12-04"
+    }, {
+        "ID": "13-54",
+        "Title": "Gross Domestic Product for the Commonwealth of the Northern Mariana Islands (CNMI), 2011-2012",
+        "URL": "http://bea.gov/newsreleases/general/terr/2013/cnmi_111813.pdf",
+        "Date_Published": "2013-12-01"
+    }, {
+        "ID": "13-53",
+        "Title": "Local Area Personal Income, 2001-2012 (benchmark estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2013/lapi1113.htm",
+        "Date_Published": "2013-11-21"
+    }, {
+        "ID": "13-52",
+        "Title": "U.S. International Trade in Goods and Services, September 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0913.htm",
+        "Date_Published": "2013-11-14"
+    }, {
+        "ID": "13-51",
+        "Title": "Personal Income and Outlays, September 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0913.htm",
+        "Date_Published": "2013-11-08"
+    }, {
+        "ID": "13-50",
+        "Title": "Gross Domestic Product, 3rd quarter 2013 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp3q13_adv.htm",
+        "Date_Published": "2013-11-07"
+    }, {
+        "ID": "13-49",
+        "Title": "U.S. International Trade in Goods and Services, August 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0813.htm",
+        "Date_Published": "2013-10-24"
+    }, {
+        "ID": "13-48",
+        "Title": "State Quarterly Personal Income, 1st quarter 2001-2nd quarter 2013; State Annual Personal Income, 2001-2012 (benchmark estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2013/spi0913.htm",
+        "Date_Published": "2013-09-30"
+    }, {
+        "ID": "13-47",
+        "Title": "Personal Income and Outlays, August 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0813.htm",
+        "Date_Published": "2013-09-27"
+    }, {
+        "ID": "13-46",
+        "Title": "Gross Domestic Product, 2nd quarter 2013 (third estimate); Corporate Profits, 2nd quarter 2013 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp2q13_3rd.htm",
+        "Date_Published": "2013-09-26"
+    }, {
+        "ID": "13-45",
+        "Title": "U.S. International Investment Position, 2nd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2013/intinv213.htm",
+        "Date_Published": "2013-09-24"
+    }, {
+        "ID": "13-44",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2013/tour213.htm",
+        "Date_Published": "2013-09-20"
+    }, {
+        "ID": "13-43",
+        "Title": "U.S. International Transactions, 2nd quarter 2013",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2013/trans213.htm",
+        "Date_Published": "2013-09-19"
+    }, {
+        "ID": "13-42",
+        "Title": "Gross Domestic Product by Metropolitan Area, 2012 and Revised 2001-2011",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2013/gdp_metro0913.htm",
+        "Date_Published": "2013-09-17"
+    }, {
+        "ID": "13-41",
+        "Title": "American Samoa Gross Domestic Product, 2011-2012",
+        "URL": "http://bea.gov/newsreleases/general/terr/2013/asgdp_090313.pdf",
+        "Date_Published": "2013-09-10"
+    }, {
+        "ID": "13-40",
+        "Title": "U.S. International Trade in Goods and Services, July 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0713.htm",
+        "Date_Published": "2013-09-04"
+    }, {
+        "ID": "13-39",
+        "Title": "Personal Income and Outlays, July 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0713.htm",
+        "Date_Published": "2013-08-30"
+    }, {
+        "ID": "13-38",
+        "Title": "Gross Domestic Product, 2nd quarter 2013 (second estimate); Corporate Profits, 2nd quarter 2013 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp2q13_2nd.htm",
+        "Date_Published": "2013-08-29"
+    }, {
+        "ID": "13-37",
+        "Title": "U.S. Virgin Islands (USVI) Gross Domestic Product, 2011-2012",
+        "URL": "http://bea.gov/newsreleases/general/terr/2013/vigdp_080213.pdf",
+        "Date_Published": "2013-08-12"
+    }, {
+        "ID": "13-36",
+        "Title": "U.S. International Trade in Goods and Services, June 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0613.htm",
+        "Date_Published": "2013-08-06"
+    }, {
+        "ID": "13-35",
+        "Title": "Personal Income and Outlays, June 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0613.htm",
+        "Date_Published": "2013-08-02"
+    }, {
+        "ID": "13-34",
+        "Title": "Gross Domestic Product, 2nd quarter 2013 (advance estimate); Comprehensive Revision: 1929 through 1st quarter 2013",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp2q13_adv.htm",
+        "Date_Published": "2013-07-31"
+    }, {
+        "ID": "13-33",
+        "Title": "U.S. International Trade in Goods and Services, May 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0513.htm",
+        "Date_Published": "2013-07-03"
+    }, {
+        "ID": "13-32",
+        "Title": "State Quarterly Personal Income, 1st quarter 2012-1st quarter 2013",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2013/spi0613.htm",
+        "Date_Published": "2013-06-28"
+    }, {
+        "ID": "13-31",
+        "Title": "Personal Income and Outlays, May 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0513.htm",
+        "Date_Published": "2013-06-27"
+    }, {
+        "ID": "13-30",
+        "Title": "Gross Domestic Product, 1st quarter 2013 (third estimate); Corporate Profits, 1st quarter 2013 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp1q13_3rd.htm",
+        "Date_Published": "2013-06-26"
+    }, {
+        "ID": "13-29",
+        "Title": "U.S. International Investment Position, 1st Quarter 2013, Year 2012, and Annual Revisions",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2013/intinv113.htm",
+        "Date_Published": "2013-06-25"
+    }, {
+        "ID": "13-28",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2013",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2013/tour113.htm",
+        "Date_Published": "2013-06-24"
+    }, {
+        "ID": "13-27",
+        "Title": "U.S. International Transactions, 1st quarter 2013 and Annual Revisions",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2013/trans113.htm",
+        "Date_Published": "2013-06-14"
+    }, {
+        "ID": "13-26",
+        "Title": "Real Personal Income for States and Metropolitan Areas, 2007-2011 (prototype estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/rpp/2013/rpp0613.htm",
+        "Date_Published": "2013-06-12"
+    }, {
+        "ID": "13-25",
+        "Title": "Gross Domestic Product by State, 2012 (advance estimate) and 2009-2011 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2013/gsp0613.htm",
+        "Date_Published": "2013-06-06"
+    }, {
+        "ID": "13-23",
+        "Title": "U.S. International Trade in Goods and Services, April 2013 U.S. International Trade in Goods and Services , 2012 annual revision",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0413.htm",
+        "Date_Published": "2013-06-04"
+    }, {
+        "ID": "13-22",
+        "Title": "Personal Income and Outlays, April 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0413.htm",
+        "Date_Published": "2013-05-31"
+    }, {
+        "ID": "13-21",
+        "Title": "Gross Domestic Product, 1st quarter 2013 (second estimate); Corporate Profits, 1st quarter 2013 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp1q13_2nd.htm",
+        "Date_Published": "2013-05-30"
+    }, {
+        "ID": "13-21",
+        "Title": "U.S. International Trade in Goods and Services, March 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0313.htm",
+        "Date_Published": "2013-05-02"
+    }, {
+        "ID": "13-19",
+        "Title": "Personal Income and Outlays, March 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0313.htm",
+        "Date_Published": "2013-04-29"
+    }, {
+        "ID": "13-18",
+        "Title": "Gross Domestic Product, 1st quarter 2013 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp1q13_adv.htm",
+        "Date_Published": "2013-04-26"
+    }, {
+        "ID": "13-17",
+        "Title": "Advance Gross Domestic Product by Industry, 2012",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2013/gdpind12_adv.htm",
+        "Date_Published": "2013-04-25"
+    }, {
+        "ID": "13-16",
+        "Title": "Summary Estimates for Multinational Companies, 2011",
+        "URL": "http://bea.gov/newsreleases/international/mnc/2013/mnc2011.htm",
+        "Date_Published": "2013-04-18"
+    }, {
+        "ID": "13-15",
+        "Title": "U.S. International Trade in Goods and Services, February 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0213.htm",
+        "Date_Published": "2013-04-05"
+    }, {
+        "ID": "13-14",
+        "Title": "Personal Income and Outlays, February 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0213.htm",
+        "Date_Published": "2013-03-29"
+    }, {
+        "ID": "13-13",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2012 (third estimate); Corporate Profits, 4th quarter and annual 2012",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp4q12_3rd.htm",
+        "Date_Published": "2013-03-28"
+    }, {
+        "ID": "13-12",
+        "Title": "State Quarterly Personal Income, 1st quarter 2012-4th quarter 2012 and State Annual Personal Income, 2012 (preliminary estimates)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2013/spi0313.htm",
+        "Date_Published": "2013-03-27"
+    }, {
+        "ID": "13-11",
+        "Title": "U.S. International Investment Position, 4th quarter and year 2012",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2013/intinv412.htm",
+        "Date_Published": "2013-03-26"
+    }, {
+        "ID": "13-10",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter and annual 2012",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2013/tour412.htm",
+        "Date_Published": "2013-03-20"
+    }, {
+        "ID": "13-09",
+        "Title": "U.S. International Transactions, 4th quarter and Year 2012",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2013/trans412.htm",
+        "Date_Published": "2013-03-14"
+    }, {
+        "ID": "13-08",
+        "Title": "U.S. International Trade in Goods and Services, January 2013",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad0113.htm",
+        "Date_Published": "2013-03-07"
+    }, {
+        "ID": "13-08",
+        "Title": "Personal Income and Outlays, January 2013",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi0113.htm",
+        "Date_Published": "2013-03-01"
+    }, {
+        "ID": "13-07",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2012 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp4q12_2nd.htm",
+        "Date_Published": "2013-02-28"
+    }, {
+        "ID": "13-06",
+        "Title": "Gross Domestic Product by Metropolitan Area, 2011 and Revised 2001-2010",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2013/gdp_metro0213.htm",
+        "Date_Published": "2013-02-22"
+    }, {
+        "ID": "13-04",
+        "Title": "U.S. International Trade in Goods and Services, December 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad1212.htm",
+        "Date_Published": "2013-02-08"
+    }, {
+        "ID": "13-03",
+        "Title": "Personal Income and Outlays, December 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2013/pi1212.htm",
+        "Date_Published": "2013-01-31"
+    }, {
+        "ID": "13-02",
+        "Title": "Gross Domestic Product, 4th quarter and annual 2012 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2013/gdp4q12_adv.htm",
+        "Date_Published": "2013-01-30"
+    }, {
+        "ID": "13-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2013/trad1112.htm",
+        "Date_Published": "2013-01-11"
+    }, {
+        "ID": "12-60",
+        "Title": "Personal Income and Outlays, November 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi1112.htm",
+        "Date_Published": "2012-12-21"
+    }, {
+        "ID": "12-59",
+        "Title": "Gross Domestic Product, 3rd quarter 2012 (third estimate); Corporate Profits, 3rd quarter 2012 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp3q12_3rd.htm",
+        "Date_Published": "2012-12-20"
+    }, {
+        "ID": "12-58",
+        "Title": "State Quarterly Personal Income, 1st quarter 2012-3rd quarter 2012",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2012/spi1212.htm",
+        "Date_Published": "2012-12-19"
+    }, {
+        "ID": "12-57",
+        "Title": "U.S. International Transactions, 3rd quarter 2012",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2012/trans312.htm",
+        "Date_Published": "2012-12-18"
+    }, {
+        "ID": "12-56",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2012",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2012/tour312.htm",
+        "Date_Published": "2012-12-17"
+    }, {
+        "ID": "12-55",
+        "Title": "U.S. International Trade in Goods and Services, October 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad1012.htm",
+        "Date_Published": "2012-12-11"
+    }, {
+        "ID": "12-54",
+        "Title": "Personal Income and Outlays, October 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi1012.htm",
+        "Date_Published": "2012-11-30"
+    }, {
+        "ID": "12-53",
+        "Title": "Gross Domestic Product, 3rd quarter 2012 (second estimate); Corporate Profits, 3rd quarter 2012 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp3q12_2nd.htm",
+        "Date_Published": "2012-11-29"
+    }, {
+        "ID": "12-52",
+        "Title": "Local Area Personal Income, 2009-2011",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2012/lapi1112.htm",
+        "Date_Published": "2012-11-26"
+    }, {
+        "ID": "12-51",
+        "Title": "Revised Statistics of Gross Domestic Product by Industry, 2009-2011",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2012/gdpind11_rev.htm",
+        "Date_Published": "2012-11-13"
+    }, {
+        "ID": "12-50",
+        "Title": "U.S. International Trade in Goods and Services, September 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0912.htm",
+        "Date_Published": "2012-11-08"
+    }, {
+        "ID": "12-49",
+        "Title": "Personal Income and Outlays, September 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0912.htm",
+        "Date_Published": "2012-10-29"
+    }, {
+        "ID": "12-48",
+        "Title": "Gross Domestic Product, 3rd quarter 2012 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp3q12_adv.htm",
+        "Date_Published": "2012-10-26"
+    }, {
+        "ID": "12-47",
+        "Title": "U.S. Virgin Islands (USVI) Gross Domestic Product, 2010",
+        "URL": "http://bea.gov/newsreleases/general/terr/2012/vigdp_10152012.pdf",
+        "Date_Published": "2012-10-15"
+    }, {
+        "ID": "12-46",
+        "Title": "U.S. International Trade in Goods and Services, August 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0812.htm",
+        "Date_Published": "2012-10-11"
+    }, {
+        "ID": "12-45",
+        "Title": "Personal Income and Outlays, August 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0812.htm",
+        "Date_Published": "2012-09-28"
+    }, {
+        "ID": "12-44",
+        "Title": "Gross Domestic Product, 2nd quarter 2012 (third estimate); Corporate Profits, 2nd quarter 2012 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp2q12_3rd.htm",
+        "Date_Published": "2012-09-27"
+    }, {
+        "ID": "12-43",
+        "Title": "State Quarterly Personal Income, 1st quarter 2009-2nd quarter 2012. State Annual Personal Income, 2009-2011 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2012/spi0912.htm",
+        "Date_Published": "2012-09-25"
+    }, {
+        "ID": "12-42",
+        "Title": "Guam Gross Domestic Product, 2010",
+        "URL": "http://bea.gov/newsreleases/general/terr/2012/guamgdp_092312.pdf",
+        "Date_Published": "2012-09-24"
+    }, {
+        "ID": "12-41",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2012",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2012/tour212.htm",
+        "Date_Published": "2012-09-19"
+    }, {
+        "ID": "12-40",
+        "Title": "U.S. International Transactions, 2nd quarter, 2012",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2012/trans212.htm",
+        "Date_Published": "2012-09-18"
+    }, {
+        "ID": "12-39",
+        "Title": "Commonwealth of the Northern Mariana Islands (CNMI) Gross Domestic Product, 2010",
+        "URL": "http://bea.gov/newsreleases/general/terr/2012/CNMIGDP_091312.pdf",
+        "Date_Published": "2012-09-17"
+    }, {
+        "ID": "12-38",
+        "Title": "U.S. International Trade in Goods and Services, July 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0712.htm",
+        "Date_Published": "2012-09-11"
+    }, {
+        "ID": "12-37",
+        "Title": "American Samoa Gross Domestic Product, 2010",
+        "URL": "http://bea.gov/newsreleases/general/terr/2012/asgdp_090412.pdf",
+        "Date_Published": "2012-09-04"
+    }, {
+        "ID": "12-36",
+        "Title": "Personal Income and Outlays, July 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0712.htm",
+        "Date_Published": "2012-08-30"
+    }, {
+        "ID": "12-35",
+        "Title": "Gross Domestic Product, 2nd quarter 2012 (second estimate); Corporate Profits, 2nd quarter 2012 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp2q12_2nd.htm",
+        "Date_Published": "2012-08-29"
+    }, {
+        "ID": "12-34",
+        "Title": "U.S. International Trade in Goods and Services, June 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0612.htm",
+        "Date_Published": "2012-08-09"
+    }, {
+        "ID": "12-33",
+        "Title": "Personal Income and Outlays, June 2012. Revised estimates: 2009 through May 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0612.htm",
+        "Date_Published": "2012-07-31"
+    }, {
+        "ID": "12-32",
+        "Title": "Gross Domestic Product, 2nd quarter 2012 (advance estimate); Revised Estimates: 2009 through First Quarter 2012",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp2q12_adv.htm",
+        "Date_Published": "2012-07-27"
+    }, {
+        "ID": "12-31",
+        "Title": "U.S. International Trade in Goods and Services, May 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0512.htm",
+        "Date_Published": "2012-07-11"
+    }, {
+        "ID": "12-30",
+        "Title": "Personal Income and Outlays, May 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0512.htm",
+        "Date_Published": "2012-06-29"
+    }, {
+        "ID": "12-29",
+        "Title": "Gross Domestic Product, 1st quarter 2012 (third estimate); Corporate Profits, 1st quarter 2012 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp1q12_3rd.htm",
+        "Date_Published": "2012-06-28"
+    }, {
+        "ID": "12-28",
+        "Title": "State Quarterly Personal Income, 1st quarter 2011-1st quarter 2012",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2012/spi0612.htm",
+        "Date_Published": "2012-06-27"
+    }, {
+        "ID": "12-27",
+        "Title": "U.S. International Investment Position, 2011",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2012/intinv11.htm",
+        "Date_Published": "2012-06-26"
+    }, {
+        "ID": "12-26",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2012",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2012/tour112.htm",
+        "Date_Published": "2012-06-20"
+    }, {
+        "ID": "12-25",
+        "Title": "U.S. International Transactions, 1st quarter 2012",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2012/trans112.htm",
+        "Date_Published": "2012-06-14"
+    }, {
+        "ID": "12-23",
+        "Title": "U.S. International Trade in Goods and Services, April 2012 U.S. International Trade in Goods and Services, 2011 annual revision",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0412.htm",
+        "Date_Published": "2012-06-08"
+    }, {
+        "ID": "12-22",
+        "Title": "Gross Domestic Product by State, 2011 (advance estimate) and 1997-2010 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2012/gsp0612.htm",
+        "Date_Published": "2012-06-05"
+    }, {
+        "ID": "12-21",
+        "Title": "Personal Income and Outlays, April 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0412.htm",
+        "Date_Published": "2012-06-01"
+    }, {
+        "ID": "12-20",
+        "Title": "Gross Domestic Product, 1st quarter 2012 (second estimate); Corporate Profits, 1st quarter 2012 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp1q12_2nd.htm",
+        "Date_Published": "2012-05-31"
+    }, {
+        "ID": "12-19",
+        "Title": "U.S. International Trade in Goods and Services, March 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0312.htm",
+        "Date_Published": "2012-05-10"
+    }, {
+        "ID": "12-05",
+        "Title": "Gross Domestic Product, 4th quarter 2011 and annual 2011 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp4q11_2nd.htm",
+        "Date_Published": "2012-02-29"
+    }, {
+        "ID": "12-04",
+        "Title": " U.S. International Trade in Goods and Services, December 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad1211.htm",
+        "Date_Published": "2012-02-10"
+    }, {
+        "ID": "12-18",
+        "Title": "Personal Income and Outlays, March 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0312.htm",
+        "Date_Published": "2012-04-30"
+    }, {
+        "ID": "12-17",
+        "Title": "Gross Domestic Product, 1st quarter 2012 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp1q12_adv.htm",
+        "Date_Published": "2012-04-27"
+    }, {
+        "ID": "12-16",
+        "Title": "Advance Gross Domestic Product by Industry, 2011",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2012/gdpind11_adv.htm",
+        "Date_Published": "2012-04-26"
+    }, {
+        "ID": "12-15",
+        "Title": "Local Area Personal Income, 2008-2010",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2012/lapi0412.htm",
+        "Date_Published": "2012-04-25"
+    }, {
+        "ID": "12-14",
+        "Title": "Summary Estimates for Multinational Companies, 2010",
+        "URL": "http://bea.gov/newsreleases/international/mnc/2012/mnc2010.htm",
+        "Date_Published": "2012-04-18"
+    }, {
+        "ID": "12-13",
+        "Title": "U.S. International Trade in Goods and Services, February 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0212.htm",
+        "Date_Published": "2012-04-12"
+    }, {
+        "ID": "12-12",
+        "Title": "Personal Income and Outlays, February 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0212.htm",
+        "Date_Published": "2012-03-30"
+    }, {
+        "ID": "12-11",
+        "Title": "Gross Domestic Product, 4th quarter 2011 and annual 2011 (third estimate); Corporate Profits, 4th quarter 2011 and annual 2011",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp4q11_3rd.htm",
+        "Date_Published": "2012-03-29"
+    }, {
+        "ID": "12-10",
+        "Title": "State Quarterly Personal Income, 1st quarter 2008-4th quarter 2011; State Annual Personal Income, 2011 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2012/spi0312.htm",
+        "Date_Published": "2012-03-28"
+    }, {
+        "ID": "12-09",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter and annual 2011",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2012/tour411.htm",
+        "Date_Published": "2012-03-21"
+    }, {
+        "ID": "12-08",
+        "Title": "U.S. International Transactions, 4th Quarter and Year 2011",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2012/trans411.htm",
+        "Date_Published": "2012-03-14"
+    }, {
+        "ID": "12-07",
+        "Title": "U.S. International Trade in Goods and Services, January 2012",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad0112.htm",
+        "Date_Published": "2012-03-09"
+    }, {
+        "ID": "12-06",
+        "Title": "Personal Income and Outlays, January 2012",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi0112.htm",
+        "Date_Published": "2012-03-01"
+    }, {
+        "ID": "12-03",
+        "Title": "Personal Income and Outlays, December 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2012/pi1211.htm",
+        "Date_Published": "2012-01-30"
+    }, {
+        "ID": "12-02",
+        "Title": "Gross Domestic Product, 4th quarter 2011 and Annual(advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2012/gdp4q11_adv.htm",
+        "Date_Published": "2012-01-27"
+    }, {
+        "ID": "12-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2012/trad1111.htm",
+        "Date_Published": "2012-01-13"
+    }, {
+        "ID": "11-64",
+        "Title": "Personal Income and Outlays, November 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi1111.htm",
+        "Date_Published": "2011-12-23"
+    }, {
+        "ID": "11-63",
+        "Title": "Gross Domestic Product, 3rd quarter 2011 (third estimate); Corporate Profits, 3rd quarter 2011 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp3q11_3rd.htm",
+        "Date_Published": "2011-12-22"
+    }, {
+        "ID": "11-62",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2011",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2011/tour311.htm",
+        "Date_Published": "2011-12-21"
+    }, {
+        "ID": "11-61",
+        "Title": "State Quarterly Personal Income, 1st quarter 2010-3rd quarter 2011",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2011/spi1211.htm",
+        "Date_Published": "2011-12-19"
+    }, {
+        "ID": "11-60",
+        "Title": "U.S. International Transactions, Third Quarter 2011",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2011/trans311.htm",
+        "Date_Published": "2011-12-15"
+    }, {
+        "ID": "11-59",
+        "Title": "County Estimates of Compensation by Industry, 2008-2010",
+        "URL": "http://bea.gov/newsreleases/regional/comp/2011/comp1211.htm",
+        "Date_Published": "2011-12-14"
+    }, {
+        "ID": "11-58",
+        "Title": "Revised Statistics of Gross Domestic Product by Industry, 2010",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2011/gdpind10_rev.htm",
+        "Date_Published": "2011-12-13"
+    }, {
+        "ID": "11-57",
+        "Title": "U.S. International Trade in Goods and Services, October 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad1011.htm",
+        "Date_Published": "2011-12-09"
+    }, {
+        "ID": "11-56",
+        "Title": "Personal Income and Outlays, October 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi1011.htm",
+        "Date_Published": "2011-11-23"
+    }, {
+        "ID": "11-55",
+        "Title": "Gross Domestic Product, 3rd quarter 2011 (second estimate); Corporate Profits, 3rd quarter 2011 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp3q11_2nd.htm",
+        "Date_Published": "2011-11-22"
+    }, {
+        "ID": "11-54",
+        "Title": "U.S. International Trade in Goods and Services, September 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0911.htm",
+        "Date_Published": "2011-11-10"
+    }, {
+        "ID": "11-53",
+        "Title": "Personal Income and Outlays, September 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0911.htm",
+        "Date_Published": "2011-10-28"
+    }, {
+        "ID": "11-52",
+        "Title": "Gross Domestic Product, 3rd quarter 2011 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp3q11_adv.htm",
+        "Date_Published": "2011-10-27"
+    }, {
+        "ID": "11-51",
+        "Title": "U.S. International Trade in Goods and Services, August 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0811.htm",
+        "Date_Published": "2011-10-13"
+    }, {
+        "ID": "11-50",
+        "Title": "Personal Income and Outlays, August 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0811.htm",
+        "Date_Published": "2011-09-30"
+    }, {
+        "ID": "11-49",
+        "Title": "Gross Domestic Product, 2nd quarter 2011 (third estimate); Corporate Profits, 2nd quarter 2011 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp2q11_3rd.htm",
+        "Date_Published": "2011-09-29"
+    }, {
+        "ID": "11-48",
+        "Title": "State Quarterly Personal Income, 1st quarter 2008-2nd quarter 2011; State Annual Personal Income, 2008-2010 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2011/spi0911.htm",
+        "Date_Published": "2011-09-22"
+    }, {
+        "ID": "11-47",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2011",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2011/tour211.htm",
+        "Date_Published": "2011-09-21"
+    }, {
+        "ID": "11-46",
+        "Title": "U.S. International Transactions: Second Quarter 2011",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2011/trans211.htm",
+        "Date_Published": "2011-09-15"
+    }, {
+        "ID": "500 error",
+        "Title": "Gross Domestic Product by Metropolitan Area, 2010 and Revised 2007-2009",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2011b/gdp_metro0211b.htm",
+        "Date_Published": "2011-09-13"
+    }, {
+        "ID": "11-44",
+        "Title": "U.S. International Trade in Goods and Services, July 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0711.htm",
+        "Date_Published": "2011-09-08"
+    }, {
+        "ID": "11-43",
+        "Title": "Personal Income and Outlays, July 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0711.htm",
+        "Date_Published": "2011-08-29"
+    }, {
+        "ID": "11-42",
+        "Title": "Gross Domestic Product, 2nd quarter 2011 (second estimate); Corporate Profits, 2nd quarter 2011 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp2q11_2nd.htm",
+        "Date_Published": "2011-08-26"
+    }, {
+        "ID": "11-41",
+        "Title": "U.S. International Trade in Goods and Services, June 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0611.htm",
+        "Date_Published": "2011-08-11"
+    }, {
+        "ID": "11-40",
+        "Title": "Personal Income for Metropolitan Areas, 2010",
+        "URL": "http://bea.gov/newsreleases/regional/mpi/2011/mpi0811.htm",
+        "Date_Published": "2011-08-09"
+    }, {
+        "ID": "11-39",
+        "Title": "Personal Income and Outlays, June 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0611.htm",
+        "Date_Published": "2011-08-02"
+    }, {
+        "ID": "11-38",
+        "Title": "Gross Domestic Product, 2nd Quarter 2011 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp2q11_adv.htm",
+        "Date_Published": "2011-07-29"
+    }, {
+        "ID": "11-37",
+        "Title": "Gross Domestic Product for Guam",
+        "URL": "http://bea.gov/newsreleases/general/terr/2011/pdf/guam_071711.pdf",
+        "Date_Published": "2011-07-17"
+    }, {
+        "ID": "11-36",
+        "Title": "Gross Domestic Product for the Commonwealth of the Northern Mariana Islands",
+        "URL": "http://bea.gov/newsreleases/general/terr/2011/pdf/cnmi_071211.pdf",
+        "Date_Published": "2011-07-12"
+    }, {
+        "ID": "11-35",
+        "Title": "U.S. International Trade in Goods and Services, May 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0511.htm",
+        "Date_Published": "2011-07-12"
+    }, {
+        "ID": "11-34",
+        "Title": "U.S. International Investment Position, 2010 ",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2011/intinv10.htm",
+        "Date_Published": "2011-06-28"
+    }, {
+        "ID": "11-33",
+        "Title": "Personal Income and Outlays, May 2011 ",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0511.htm",
+        "Date_Published": "2011-06-27"
+    }, {
+        "ID": "11-32",
+        "Title": "Gross Domestic Product, 1st quarter 2011 (third estimate) ",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp1q11_3rd.htm",
+        "Date_Published": "2011-06-24"
+    }, {
+        "ID": "11-31",
+        "Title": "Corporate Profits, 1st quarter 2011 (revised estimate) ",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2011/spi0611.htm",
+        "Date_Published": "2011-06-22"
+    }, {
+        "ID": "11-30",
+        "Title": "State Quarterly Personal Income, 1st quarter 2010-1st quarter 2011 ",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2011/tour111.htm",
+        "Date_Published": "2011-06-21"
+    }, {
+        "ID": "11-29",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2011 ",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2011/trans111.htm",
+        "Date_Published": "2011-06-16"
+    }, {
+        "ID": "11-28",
+        "Title": "U.S. International Transactions: First Quarter 2011 ",
+        "URL": "http://bea.gov/newsreleases/general/terr/2011/pdf/vi_061311.pdf",
+        "Date_Published": "2011-06-13"
+    }, {
+        "ID": "11-26",
+        "Title": "U.S. Virgin Islands (USVI) Gross Domestic Product, 2008-2009 ",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0411.htm",
+        "Date_Published": "2011-06-09"
+    }, {
+        "ID": "11-27",
+        "Title": "U.S. International Trade in Goods and Services, April 2011; U.S. International Trade in Goods and Services, 2010 annual revision ",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad1311.htm ",
+        "Date_Published": "2011-06-09"
+    }, {
+        "ID": "11-25",
+        "Title": "Gross Domestic Product by State, 2010 (advance estimate) and 2007-2009 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2011/gsp0611.htm ",
+        "Date_Published": "2011-06-07"
+    }, {
+        "ID": "11-23",
+        "Title": "Personal Income and Outlays, April 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0411.htm",
+        "Date_Published": "2011-05-27"
+    }, {
+        "ID": "11-22",
+        "Title": "Gross Domestic Product, 1st quarter 2011 (second estimate); Corporate Profits, 1st quarter 2011 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp1q11_2nd.htm",
+        "Date_Published": "2011-05-26"
+    }, {
+        "ID": "11-21",
+        "Title": "U.S. International Trade in Goods and Services, March 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0311.htm",
+        "Date_Published": "2011-05-11"
+    }, {
+        "ID": "11-20",
+        "Title": "Personal Income and Outlays, March 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0311.htm",
+        "Date_Published": "2011-04-29"
+    }, {
+        "ID": "11-19",
+        "Title": "Gross Domestic Product, 1st quarter 2011 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp1q11_adv.htm",
+        "Date_Published": "2011-04-28"
+    }, {
+        "ID": "11-18",
+        "Title": "Advance Gross Domestic Product by Industry, 2010",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2011/gdpind10_adv.htm",
+        "Date_Published": "2011-04-26"
+    }, {
+        "ID": "11-17",
+        "Title": "Local Area Personal Income, 2009",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2011/lapi0411.htm",
+        "Date_Published": "2011-04-21"
+    }, {
+        "ID": "11-16",
+        "Title": "Summary Estimates for Multinational Companies, 2009",
+        "URL": "http://bea.gov/newsreleases/international/mnc/2011/mnc2009.htm",
+        "Date_Published": "2011-04-18"
+    }, {
+        "ID": "11-15",
+        "Title": "U.S. International Trade in Goods and Services, February 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0211.htm",
+        "Date_Published": "2011-04-12"
+    }, {
+        "ID": "11-14",
+        "Title": "Personal Income and Outlays, February 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0211.htm",
+        "Date_Published": "2011-03-28"
+    }, {
+        "ID": "11-13",
+        "Title": "Gross Domestic Product, 4th Quarter and Annual 2010 (third estimate); Corporate Profits, 4th Quarter and Annual 2010",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp4q10_3rd.htm",
+        "Date_Published": "2011-03-25"
+    }, {
+        "ID": "11-12",
+        "Title": "State Quarterly Personal Income, 1st quarter 2007-4th quarter 2010; State Annual Personal Income, 2010 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2011/spi0311.htm",
+        "Date_Published": "2010-03-23"
+    }, {
+        "ID": "11-11",
+        "Title": "Travel and Tourism Satellite Accounts, 4th quarter and annual 2010",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2011/tour410.htm",
+        "Date_Published": "2011-03-18"
+    }, {
+        "ID": "11-10",
+        "Title": "U.S. International Transactions: Fourth Quarter and Year 2010",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2011/trans410.htm",
+        "Date_Published": "2011-03-16"
+    }, {
+        "ID": "11-09",
+        "Title": "U.S. International Trade in Goods and Services, January 2011",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad0111.htm",
+        "Date_Published": "2011-03-10"
+    }, {
+        "ID": "11-08",
+        "Title": "Personal Income and Outlays, January 2011",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi0111.htm",
+        "Date_Published": "2011-02-28"
+    }, {
+        "ID": "11-07",
+        "Title": "Gross Domestic Product, 4th quarter 2010 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp4q10_2nd.htm",
+        "Date_Published": "2011-02-25"
+    }, {
+        "ID": "500 error",
+        "Title": "GDP by Metropolitan Area, Advance 2009, and Revised 2001–2008",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2011/gdp_metro0211.htm",
+        "Date_Published": "2011-02-23"
+    }, {
+        "ID": "11-04",
+        "Title": "U.S. International Trade in Goods and Services, December 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad1210.htm",
+        "Date_Published": "2011-02-11"
+    }, {
+        "ID": "11-03",
+        "Title": "Personal Income and Outlays, December 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2011/pi1210.htm",
+        "Date_Published": "2011-01-31"
+    }, {
+        "ID": "11-02",
+        "Title": "Gross Domestic Product, 4th quarter 2010 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2011/gdp4q10_adv.htm",
+        "Date_Published": "2011-01-28"
+    }, {
+        "ID": "11-01",
+        "Title": "U.S. International Trade in Goods and Services, November 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2011/trad1110.htm",
+        "Date_Published": "2011-01-13"
+    }, {
+        "ID": "10-63",
+        "Title": "Personal Income and Outlays, November 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi1110.htm",
+        "Date_Published": "2010-12-23"
+    }, {
+        "ID": "10-62",
+        "Title": "Gross Domestic Product, 3rd quarter 2010 (third estimate) | Corporate Profits, 3rd quarter 2010 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp3q10_3rd.htm",
+        "Date_Published": "2010-12-22"
+    }, {
+        "ID": "10-61",
+        "Title": "County Estimates of Compensation by Industry, 2007-2009",
+        "URL": "http://bea.gov/newsreleases/regional/comp/2010/comp1210.htm",
+        "Date_Published": "2010-12-21"
+    }, {
+        "ID": "10-60",
+        "Title": "Travel and Tourism Satellite Accounts, 3rd quarter 2010",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2010/tour310.htm",
+        "Date_Published": "2010-12-20"
+    }, {
+        "ID": "10-59",
+        "Title": "State Quarterly Personal Income, 1st quarter 2009-3rd quarter 2010",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2010/spi1210.htm",
+        "Date_Published": "2010-12-17"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Transactions: Third Quarter 2010",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2010/trans310.htm",
+        "Date_Published": "2010-12-16"
+    }, {
+        "ID": "10-57",
+        "Title": "Revised Gross Domestic Product by Industry, 2009",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2010/gdpind09_rev.htm",
+        "Date_Published": "2010-12-14"
+    }, {
+        "ID": "10-56",
+        "Title": "U.S. International Trade in Goods and Services, October 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad1010.htm",
+        "Date_Published": "2010-12-10"
+    }, {
+        "ID": "10-55",
+        "Title": "Personal Income and Outlays, October 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi1010.htm",
+        "Date_Published": "2010-11-24"
+    }, {
+        "ID": "10-54",
+        "Title": "Gross Domestic Product, 3rd quarter 2010 (second estimate) | Corporate Profits, 3rd quarter 2010 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp3q10_2nd.htm",
+        "Date_Published": "2010-11-23"
+    }, {
+        "ID": "10-53",
+        "Title": "Gross Domestic Product by State, Advance 2009 and Revised 1963-2008",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/2010/gsp1110.htm",
+        "Date_Published": "2010-11-18"
+    }, {
+        "ID": "10-52",
+        "Title": "U.S. International Trade in Goods and Services, September 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0910.htm",
+        "Date_Published": "2010-11-10"
+    }, {
+        "ID": "10-51",
+        "Title": "Personal Income and Outlays, September 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0910.htm",
+        "Date_Published": "2010-11-01"
+    }, {
+        "ID": "10-50",
+        "Title": "Gross Domestic Product, 3rd quarter 2010 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp3q10_adv.htm",
+        "Date_Published": "2010-10-29"
+    }, {
+        "ID": "10-49",
+        "Title": "U.S. International Trade in Goods and Services, August 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0810.htm",
+        "Date_Published": "2010-10-14"
+    }, {
+        "ID": "10-48",
+        "Title": "Personal Income and Outlays, August 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0810.htm",
+        "Date_Published": "2010-10-01"
+    }, {
+        "ID": "10-47",
+        "Title": "Gross Domestic Product, 2nd quarter 2010 (third estimate); Corporate Profits, 2nd quarter 2010 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp2q10_3rd.htm",
+        "Date_Published": "2010-09-30"
+    }, {
+        "ID": "10-46",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2010",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2010/tour210.htm",
+        "Date_Published": "2010-09-23"
+    }, {
+        "ID": "10-45",
+        "Title": "State Quarterly Personal Income, 1st quarter 2007-2nd quarter 2010; State Annual Personal Income, 2007-2009 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2010/spi0910.htm",
+        "Date_Published": "2010-09-20"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Transactions: Second Quarter 2010",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2010/trans210.htm",
+        "Date_Published": "2010-09-16"
+    }, {
+        "ID": "10-43",
+        "Title": "U.S. International Trade in Goods and Services, July 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0710.htm",
+        "Date_Published": "2010-09-09"
+    }, {
+        "ID": "10-42",
+        "Title": "Personal Income and Outlays, July 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0710.htm",
+        "Date_Published": "2010-08-30"
+    }, {
+        "ID": "10-41",
+        "Title": "Gross Domestic Product, 2nd quarter 2010 (second estimate); Corporate Profits, 2nd quarter 2010 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp2q10_2nd.htm",
+        "Date_Published": "2010-08-27"
+    }, {
+        "ID": "10-40",
+        "Title": "U.S. International Trade in Goods and Services, June 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0610.htm",
+        "Date_Published": "2010-08-11"
+    }, {
+        "ID": "10-39",
+        "Title": "Personal Income for Metropolitan Areas, 2009",
+        "URL": "http://bea.gov/newsreleases/regional/mpi/2010/mpi0810.htm",
+        "Date_Published": "2010-08-09"
+    }, {
+        "ID": "10-38",
+        "Title": "Personal Income and Outlays, June 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0610.htm",
+        "Date_Published": "2010-08-03"
+    }, {
+        "ID": "10-37",
+        "Title": "Gross Domestic Product, 2nd quarter 2010 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp2q10_adv.htm",
+        "Date_Published": "2010-07-30"
+    }, {
+        "ID": "10-36",
+        "Title": "U.S. International Trade in Goods and Services, May 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0510.htm",
+        "Date_Published": "2010-07-13"
+    }, {
+        "ID": "10-35",
+        "Title": "Gross Domestic Product for the U.S. Virgin Islands",
+        "URL": "http://bea.gov/newsreleases/general/terr/2010/vi_070610.htm",
+        "Date_Published": "2010-07-06"
+    }, {
+        "ID": "10-34",
+        "Title": "Research and Development Satellite Account, 2010",
+        "URL": "http://bea.gov/newsreleases/general/rd/2010/rdspend10.htm",
+        "Date_Published": "2010-06-30"
+    }, {
+        "ID": "10-33",
+        "Title": "Personal Income and Outlays, May 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0510.htm",
+        "Date_Published": "2010-06-28"
+    }, {
+        "ID": "10-31",
+        "Title": "Gross Domestic Product, 1st quarter 2010 (third estimate) | Corporate Profits, 1st quarter 2010 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp1q10_3rd.htm",
+        "Date_Published": "2010-06-25"
+    }, {
+        "ID": "10-32",
+        "Title": "U.S. International Investment Position, 2009",
+        "URL": "http://bea.gov/newsreleases/international/intinv/2010/intinv09.htm",
+        "Date_Published": "2010-06-25"
+    }, {
+        "ID": "10-30",
+        "Title": "Travel and Tourism Satellite Accounts, 1st quarter 2010",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2010/tour110.htm",
+        "Date_Published": "2010-06-22"
+    }, {
+        "ID": "10-29",
+        "Title": "State Quarterly Personal Income, 1st quarter 2009-1st quarter 2010",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2010/spi0610.htm",
+        "Date_Published": "2010-06-18"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Transactions: First Quarter 2010",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2010/trans110.htm",
+        "Date_Published": "2010-06-17"
+    }, {
+        "ID": "10-27",
+        "Title": "Gross Domestic Product for Guam",
+        "URL": "http://bea.gov/newsreleases/general/terr/2010/guam_061310.htm",
+        "Date_Published": "2010-06-13"
+    }, {
+        "ID": "10-25",
+        "Title": "U.S. International Trade in Goods and Services, April 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0410.htm",
+        "Date_Published": "2010-06-10"
+    }, {
+        "ID": "10-26",
+        "Title": "U.S. International Trade in Goods and Services, 2009 annual revision",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad1310.htm",
+        "Date_Published": "2010-06-10"
+    }, {
+        "ID": "10-24",
+        "Title": "Gross Domestic Product for the Commonwealth of the Northern Mariana Islands",
+        "URL": "http://bea.gov/newsreleases/general/terr/2010/cnmi_060710.htm",
+        "Date_Published": "2010-06-07"
+    }, {
+        "ID": "10-23",
+        "Title": "Personal Income and Outlays, April 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0410.htm",
+        "Date_Published": "2010-05-28"
+    }, {
+        "ID": "10-22",
+        "Title": "Gross Domestic Product, 1st quarter 2010 (second estimate) | Corporate Profits, 1st quarter 2010 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp1q10_2nd.htm",
+        "Date_Published": "2010-05-27"
+    }, {
+        "ID": "10-21",
+        "Title": "Advance Gross Domestic Product by Industry, 2009",
+        "URL": "http://bea.gov/newsreleases/industry/gdpindustry/2010/gdpind09.htm",
+        "Date_Published": "2010-05-25"
+    }, {
+        "ID": "10-20",
+        "Title": "U.S. International Trade in Goods and Services, March 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0310.htm",
+        "Date_Published": "2010-05-12"
+    }, {
+        "ID": "10-19",
+        "Title": "Gross Domestic Product for American Samoa",
+        "URL": "http://bea.gov/newsreleases/general/terr/2010/asgdp_051010.htm",
+        "Date_Published": "2010-05-10"
+    }, {
+        "ID": "10-18",
+        "Title": "GDP for American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands",
+        "URL": "http://bea.gov/newsreleases/general/2010/territory_0310.htm",
+        "Date_Published": "2010-05-05"
+    }, {
+        "ID": "10-17",
+        "Title": "Personal Income and Outlays, March 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0310.htm",
+        "Date_Published": "2010-05-03"
+    }, {
+        "ID": "10-16",
+        "Title": "Gross Domestic Product, 1st quarter 2010 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp1q10_adv.htm",
+        "Date_Published": "2010-04-30"
+    }, {
+        "ID": "10-15",
+        "Title": "Local Area Personal Income, 2008",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/2010/lapi0410.htm",
+        "Date_Published": "2010-04-22"
+    }, {
+        "ID": "10-14",
+        "Title": "Summary Estimates for Multinational Companies, 2008",
+        "URL": "http://bea.gov/newsreleases/international/mnc/2010/mnc2008.htm",
+        "Date_Published": "2010-04-16"
+    }, {
+        "ID": "10-13",
+        "Title": "U.S. International Trade in Goods and Services, February 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0210.htm",
+        "Date_Published": "2010-04-13"
+    }, {
+        "ID": "10-12",
+        "Title": "Personal Income and Outlays, February 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0210.htm",
+        "Date_Published": "2010-03-29"
+    }, {
+        "ID": "10-11",
+        "Title": "Gross Domestic Product, 4th quarter 2009 (third estimate); Corporate Profits, 4th quarter 2009",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp4q09_3rd.htm",
+        "Date_Published": "2010-03-26"
+    }, {
+        "ID": "10-10",
+        "Title": "State Quarterly Personal Income, 1st quarter 2006-4th quarter 2009; State Annual Personal Income, 2009 (preliminary estimate)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/2010/spi0310.htm",
+        "Date_Published": "2010-03-25"
+    }, {
+        "ID": "10-09",
+        "Title": "Travel and Tourism Satellite Accounts, 4th Quarter and Annual 2009",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/2010/tour409.htm",
+        "Date_Published": "2010-03-19"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Transactions: Fourth Quarter 2009",
+        "URL": "http://bea.gov/newsreleases/international/transactions/2010/trans409.htm",
+        "Date_Published": "2010-03-18"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Trade in Goods and Services, January 2010",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad0110.htm",
+        "Date_Published": "2010-03-11"
+    }, {
+        "ID": "500 error",
+        "Title": "Personal Income and Outlays, January 2010",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi0110.htm",
+        "Date_Published": "2010-03-01"
+    }, {
+        "ID": "500 error",
+        "Title": "Gross Domestic Product, 4th quarter 2009 (second estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp4q09_2nd.htm",
+        "Date_Published": "2010-02-26"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Trade in Goods and Services, December 2009",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad1209.htm",
+        "Date_Published": "2010-02-10"
+    }, {
+        "ID": "500 error",
+        "Title": "Personal Income and Outlays, December 2009",
+        "URL": "http://bea.gov/newsreleases/national/pi/2010/pi1209.htm",
+        "Date_Published": "2010-02-01"
+    }, {
+        "ID": "500 error",
+        "Title": "Gross Domestic Product, 4th quarter 2009 (advance estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2010/gdp4q09_adv.htm",
+        "Date_Published": "2010-01-29"
+    }, {
+        "ID": "500 error",
+        "Title": "U.S. International Trade in Goods and Services, November 2009",
+        "URL": "http://bea.gov/newsreleases/international/trade/2010/trad1109.htm",
+        "Date_Published": "2010-01-12"
+    }]
+  }

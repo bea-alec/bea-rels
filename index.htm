@@ -25,12 +25,31 @@
   <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
   <script type="text/javascript" src="js/datatables.min.js"></script>
   <script>
-    $(document).ready(function() {
-      $('#example').DataTable({
-        "ajax": 'ajax/data/releases.txt'
-      });
+  $(document).ready(function() {
+    $('#example').DataTable({
+      "ajax": 'ajax/data/release-archive.json',
+      "order": [
+        [3, "desc"]
+      ],
+      "columns": [{
+        "data": "ID"
+      }, {
+        "data": "Title"
+      }, {
+        "data": "URL"
+      }, {
+        "data": "Date_Published"
+      }],
+      "columnDefs": [{
+        "targets": 2,
+        "data": "URL",
+        "render": function(data, type, full, meta) {
+          return '<a href="' + data + '" target="blank">' + data + '</a>';
+        }
+      }]
     });
-  </script>
+  });
+</script>
 </head>
 
 <body>
@@ -38,16 +57,17 @@
     <div class="row">
       <div class="col-md-12">
         <h1>BEA-RELS<img src="img/apple-touch-icon-72x72.png" style="float:right"></h1>
-        <p class="lead">An inventory of BEA.GOV news releases from 2013-2016</a>
+        <p class="lead">An inventory of BEA.GOV news releases from 2010
+          -2016</a>
         </p>
         <hr>
         <table class="table table-striped" id="example" cellspacing="0" width="100%">
           <thead>
             <tr>
               <th class="col-md-1">ID</th>
-              <th class="col-md-4">Title</th>
-              <th>URL</th>
-              <th>Date Published</th>
+              <th class="col-md-5">Title</th>
+              <th class="col-md-5">URL</th>
+              <th class="col-md-1">Date Published</th>
             </tr>
           </thead>
         </table>
