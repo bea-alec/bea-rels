@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An archive of BEA News Releases">
+  <meta name="keywords" content="BEA, Bureau of Economic Analysis">
+  <meta name="author" content="PJ Urquilla - CTR, Communications Division">
+  <link rel="icon" type="image/png" href="img/favicon-32x32.png?v=9BBR3Ay64e" sizes="32x32">
+  <link rel="icon" type="image/png" href="img/favicon-194x194.png?v=9BBR3Ay64e" sizes="194x194">
+  <link rel="icon" type="image/png" href="img/favicon-96x96.png?v=9BBR3Ay64e" sizes="96x96">
+  <link rel="icon" type="image/png" href="img/favicon-16x16.png?v=9BBR3Ay64e" sizes="16x16">
+  <link rel="shortcut icon" href="img/favicon.ico?v=9BBR3Ay64e">
+  <title>BEA-RELS</title>
+  <!-- Bootstrap & DataTables -->
+  <link rel="stylesheet" type="text/css" href="css/datatables.min.css" />
+  <link rel="stylesheet" type="text/css" href="css/custom.css">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]> <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <![endif]-->
+
+  <!-- 1. Add these JavaScript inclusions in the head of your page -->
+  <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
+  <script type="text/javascript" src="js/datatables.min.js"></script>
+  <script>
+  $(document).ready(function() {
+    $('#example').DataTable({
+      "ajax": 'ajax/data/release-archive.json',
+      "order": [
+        [3, "desc"]
+      ],
+      "paging": false,
+      "columns": [{
+        "data": "ID"
+      }, {
+        "data": "Title"
+      }, {
+        "data": "URL"
+      }, {
+        "data": "Date_Published"
+      }],
+      "columnDefs": [{
+        "targets": 2,
+        "data": "URL",
+        "render": function(data, type, full, meta) {
+          return '<a href="' + data + '" target="blank">' + data + '</a>';
+        }
+      }]
+    });
+  });
+</script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>BEA-RELS<img src="img/apple-touch-icon-72x72.png" style="float:right"></h1>
+        <p class="lead">An inventory of BEA news releases (2005-2016). Source: <a href="http://bea.gov/newsreleases/release_archive.htm">BEA.GOV</a>
+        </p>
+        <hr>
+        <table class="table table-striped" id="example" cellspacing="0" width="100%">
+          <thead>
+            <tr>
+              <th class="col-md-1">ID</th>
+              <th class="col-md-5">Title</th>
+              <th class="col-md-5">URL</th>
+              <th class="col-md-1">Date Published</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <hr>
+        <p class="bg-info">Use of this prototype is for testing and development purposes only. Visit <a href="http://bea.gov">BEA.GOV</a> for official content.</p>
+      </div>
+    </div>
+  </div>
+  <script src="js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</body>
+
+</html>
