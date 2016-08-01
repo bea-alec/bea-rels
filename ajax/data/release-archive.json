@@ -4,17 +4,17 @@
         "Title": "Gross Domestic Product, 2nd quarter 2016 (advance estimate); Annual Update: 2013 through First Quarter 2016",
         "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp2q16_adv.htm",
         "Date_Published": "2016-07-29"
-    },{
+    }, {
         "ID": "16-39",
         "Title": "Gross Domestic Product by State, 1st quarter 2016",
         "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2016/qgsp0716.htm",
         "Date_Published": "2016-07-27"
-    },{
+    }, {
         "ID": "16-38",
         "Title": "Gross Domestic Product by Industry, 1st quarter 2016",
         "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2016/gdpind116.htm",
         "Date_Published": "2016-07-21"
-    },{
+    }, {
         "ID": "16-37",
         "Title": "New Foreign Direct Investment in the United States, 2014 and 2015",
         "URL": "http://www.bea.gov/newsreleases/international/fdi/2016/fdi0716.htm",
@@ -3564,5 +3564,310 @@
         "Title": "U.S. International Trade in Goods and Services: November 2004",
         "URL": "http://bea.gov/newsreleases/international/trade/2005/trad1104.htm",
         "Date_Published": "2005-01-12"
+    }, {
+        "ID": "04-62",
+        "Title": "Personal Income, October 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi1104.htm",
+        "Date_Published": "2004-12-23"
+    }, {
+        "ID": "04-61",
+        "Title": "Gross Domestic Product and Corporate Profits: Third Quarter 2004 &quot;final&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp304f.htm",
+        "Date_Published": "2004-12-22"
+    }, {
+        "ID": "04-60",
+        "Title": "State Personal Income: Third Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2004/spi1204.htm",
+        "Date_Published": "2004-12-21"
+    }, {
+        "ID": "04-59",
+        "Title": "Gross Domestic Product by Industry, 2001-2003 (revised)",
+        "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2004/gdpind03_rev.htm",
+        "Date_Published": "2004-12-20"
+    }, {
+        "ID": "04-58",
+        "Title": "Tourism Satellite Accounts, Third Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2004/tour304.htm",
+        "Date_Published": "2004-12-20"
+    }, {
+        "ID": "04-57",
+        "Title": "U.S. International Transactions: Third Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2004/trans304.htm",
+        "Date_Published": "2004-12-16"
+    }, {
+        "ID": "04-56",
+        "Title": "Gross State Product by Industry, 1977-2002 and Accelerated Total GSP 2003",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2004/gsp1204.htm",
+        "Date_Published": "2004-12-15"
+    }, {
+        "ID": "04-55",
+        "Title": "U.S. International Trade in Goods and Services: October 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad1004.htm",
+        "Date_Published": "2004-12-14"
+    }, {
+        "ID": "04-54",
+        "Title": "Personal Income, October 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi1004.htm",
+        "Date_Published": "2004-12-01"
+    }, {
+        "ID": "04-53",
+        "Title": "Gross Domestic Product and Corporate Profits: Third Quarter 2004 &quot;preliminary&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp304p.htm",
+        "Date_Published": "2004-11-30"
+    }, {
+        "ID": "04-52",
+        "Title": "New BEA Economic Areas For 2004",
+        "URL": "http://www.bea.gov/newsreleases/general/2004/rea1104.htm",
+        "Date_Published": "2004-11-17"
+    }, {
+        "ID": "04-51",
+        "Title": "Gross Domestic Product By Industry Data Show Information Technology Drove Economic Growth in the Late 1990’s  New Estimates Based on the North American Industry Classification System",
+        "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2004/naics.htm",
+        "Date_Published": "2004-11-15"
+    }, {
+        "ID": "04-50",
+        "Title": "U.S. International Trade in Goods and Services: September 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0904.htm",
+        "Date_Published": "2004-11-10"
+    }, {
+        "ID": "04-49",
+        "Title": "Personal Income, September 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0904.htm",
+        "Date_Published": "2004-11-01"
+    }, {
+        "ID": "04-48",
+        "Title": "Gross Domestic Product: Third Quarter 2004 &quot;advance&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp304a.htm",
+        "Date_Published": "2004-10-29"
+    }, {
+        "ID": "04-47",
+        "Title": "U.S. International Trade in Goods and Services: August 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0804.htm",
+        "Date_Published": "2004-10-14"
+    }, {
+        "ID": "04-46",
+        "Title": "Personal Income, August 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0804.htm",
+        "Date_Published": "2004-09-30"
+    }, {
+        "ID": "04-45",
+        "Title": "Gross Domestic Product and Corporate Profits: Second Quarter 2004 &quot;final&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp204f.htm",
+        "Date_Published": "2004-09-29"
+    }, {
+        "ID": "04-44",
+        "Title": "State Personal Income: Second Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2004/spi0904.htm",
+        "Date_Published": "2004-09-28"
+    }, {
+        "ID": "04-42",
+        "Title": "U.S. International Trade in Goods and Services: July 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0704.htm",
+        "Date_Published": "2004-09-10"
+    }, {
+        "ID": "04-41",
+        "Title": "Tourism Satellite Accounts, Second Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2004/tour204.htm",
+        "Date_Published": "2004-09-08"
+    }, {
+        "ID": "04-40",
+        "Title": "Personal Income, July 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0704.htm",
+        "Date_Published": "2004-08-30"
+    }, {
+        "ID": "04-39",
+        "Title": "Gross Domestic Product and Corporate Profits: Second Quarter 2004 &quot;preliminary&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp204p.htm",
+        "Date_Published": "2004-08-27"
+    }, {
+        "ID": "04-38",
+        "Title": "U.S. International Trade in Goods and Services: June 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0604.htm",
+        "Date_Published": "2004-08-13"
+    }, {
+        "ID": "04-37",
+        "Title": "Personal Income, June 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0604.htm",
+        "Date_Published": "2004-08-03"
+    }, {
+        "ID": "04-36",
+        "Title": "Gross Domestic Product: Second Quarter 2004 &quot;advance&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp204a.htm",
+        "Date_Published": "2004-07-30"
+    }, {
+        "ID": "04-35",
+        "Title": "U.S. International Trade in Goods and Services: May 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0504.htm",
+        "Date_Published": "2004-07-13"
+    }, {
+        "ID": "04-34",
+        "Title": "U.S. Net International Investment Position at Yearend, 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/2004/intinv03.htm",
+        "Date_Published": "2004-06-30"
+    }, {
+        "ID": "04-33",
+        "Title": "State Personal Income, First Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2004/spi0604.htm",
+        "Date_Published": "2004-06-29"
+    }, {
+        "ID": "04-32",
+        "Title": "Personal Income, May 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0504.htm",
+        "Date_Published": "2004-06-28"
+    }, {
+        "ID": "04-31",
+        "Title": "Gross Domestic Product and Corporate Profits: First Quarter 2004 &quot;final&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp104f.htm",
+        "Date_Published": "2004-06-25"
+    }, {
+        "ID": "04-30",
+        "Title": "U.S. International Transactions: First Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2004/trans104.htm",
+        "Date_Published": "2004-06-18"
+    }, {
+        "ID": "04-29",
+        "Title": "Gross Domestic Product by Industry for 2003",
+        "URL": "http://www.bea.gov/newsreleases/industry/gdpindustry/2004/gdpind03.htm",
+        "Date_Published": "2004-06-17"
+    }, {
+        "ID": "04-27",
+        "Title": "U.S. International Trade in Goods and Services: April 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0404.htm",
+        "Date_Published": "2004-06-14"
+    }, {
+        "ID": "04-28",
+        "Title": "U.S. International Trade in Goods and Services: Annual Revision for 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad1304.htm",
+        "Date_Published": "2004-06-14"
+    }, {
+        "ID": "04-26",
+        "Title": "Tourism Satellite Accounts, First Quarter 2004",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2004/tour104.htm",
+        "Date_Published": "2004-06-10"
+    }, {
+        "ID": "04-25",
+        "Title": "BEA Debuts Enhanced Overview of the U.S. Economy",
+        "URL": "http://www.bea.gov/newsreleases/general/2004/overviewrelease.htm",
+        "Date_Published": "2004-06-04"
+    }, {
+        "ID": "04-24",
+        "Title": "Foreign Investors' Spending to Acquire or Establish U.S. Businesses, 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/fdi/2004/fdi03.htm",
+        "Date_Published": "2004-06-01"
+    }, {
+        "ID": "04-23",
+        "Title": "Personal Income, April 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0404.htm",
+        "Date_Published": "2004-05-28"
+    }, {
+        "ID": "04-22",
+        "Title": "Gross Domestic Product and Corporate Profits: First Quarter 2004 &quot;preliminary&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp104p.htm",
+        "Date_Published": "2004-05-27"
+    }, {
+        "ID": "04-21",
+        "Title": "Metropolitan Area Personal Income and Per Capital Personal Income: 2002",
+        "URL": "http://www.bea.gov/newsreleases/regional/lapi/2004/mpi0504.htm",
+        "Date_Published": "2004-05-25"
+    }, {
+        "ID": "04-20",
+        "Title": "U.S. International Trade in Goods and Services: March 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0304.htm",
+        "Date_Published": "2004-05-12"
+    }, {
+        "ID": "04-19",
+        "Title": "Personal Income and Outlays, March 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0304.htm",
+        "Date_Published": "2004-04-30"
+    }, {
+        "ID": "04-18",
+        "Title": "Gross Domestic Product: First Quarter 2004 &quot;advance&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp104a.htm",
+        "Date_Published": "2004-04-29"
+    }, {
+        "ID": "04-17",
+        "Title": "State Personal Income: Fourth Quarter 2003, State Per Capita Personal Income 2003, and Revisions 1969-2002",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2004/spi0404.htm",
+        "Date_Published": "2004-04-27"
+    }, {
+        "ID": "04-16",
+        "Title": "Summary Estimates for Multinational Companies: Employment, Sales, and Capital Expenditures for 2002",
+        "URL": "http://www.bea.gov/newsreleases/international/mnc/2004/mnc2002.htm",
+        "Date_Published": "2004-04-16"
+    }, {
+        "ID": "04-15",
+        "Title": "U.S. International Trade in Goods and Services: February 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0204.htm",
+        "Date_Published": "2004-04-14"
+    }, {
+        "ID": "04-14",
+        "Title": "Personal Income and Outlays, February 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0204.htm",
+        "Date_Published": "2004-03-26"
+    }, {
+        "ID": "04-13",
+        "Title": "Gross Domestic Product and Corporate Profits: Fourth Quarter 2003 &quot;final&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp403f.htm",
+        "Date_Published": "2004-03-25"
+    }, {
+        "ID": "04-12",
+        "Title": "Tourism Satellite Accounts, Fourth Quarter 2003",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2004/tour403.htm",
+        "Date_Published": "2004-03-15"
+    }, {
+        "ID": "04-11",
+        "Title": "U.S. International Transactions: Fourth Quarter 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2004/trans403.htm",
+        "Date_Published": "2004-03-12"
+    }, {
+        "ID": "04-10",
+        "Title": "U.S. International Trade in Goods and Services: January 2004",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad0104.htm",
+        "Date_Published": "2004-03-10"
+    }, {
+        "ID": "04-09",
+        "Title": "Personal Income and Outlays, January 2004",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi0104.htm",
+        "Date_Published": "2004-03-01"
+    }, {
+        "ID": "04-08",
+        "Title": "Gross Domestic Product Fourth Quarter 2003 &quot;preliminary&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp403p.htm",
+        "Date_Published": "2004-02-27"
+    }, {
+        "ID": "04-07",
+        "Title": "U.S. International Trade in Goods and Services: December 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad1203.htm",
+        "Date_Published": "2004-02-13"
+    }, {
+        "ID": "04-06",
+        "Title": "Proposal for BEA's FY2005 Budget",
+        "URL": "http://www.bea.gov/newsreleases/general/2004/budget05.htm",
+        "Date_Published": "2004-02-02"
+    }, {
+        "ID": "04-05",
+        "Title": "Personal Income and Outlays, December 2003",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2004/pi1203.htm",
+        "Date_Published": "2004-02-02"
+    }, {
+        "ID": "04-04",
+        "Title": "Gross Domestic Product Fourth Quarter 2003 &quot;advance&quot; estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2004/gdp403a.htm",
+        "Date_Published": "2004-01-30"
+    }, {
+        "ID": "04-03",
+        "Title": "State Personal Income: Third Quarter 2003",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2004/spi0104.htm",
+        "Date_Published": "2004-01-27"
+    }, {
+        "ID": "04-02",
+        "Title": "U.S. International Trade in Goods and Services: November 2003",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2004/trad1103.htm",
+        "Date_Published": "2004-01-14"
+    }, {
+        "ID": "04-01",
+        "Title": "Employees Rate Bureau of Economic Analysis Among Top Federal Agencies",
+        "URL": "http://www.bea.gov/newsreleases/general/2004/OASnewsrelease.htm",
+        "Date_Published": "2004-01-05"
     }]
 }
