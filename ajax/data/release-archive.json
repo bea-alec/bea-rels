@@ -4419,5 +4419,1430 @@
         "Title": "U.S. International Trade in Goods and Services, November 2001",
         "URL": "http://bea.gov/newsreleases/international/trade/2002/trad1101.htm",
         "Date_Published": "2002-01-18"
-    }]
+    }, {
+        "ID": "01-42",
+        "Title": "Personal Income, November 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi1101.htm",
+        "Date_Published": "2001-12-21"
+    }, {
+        "ID": "01-41",
+        "Title": "Gross Domestic Product Third Quarter 2001 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp301f.htm",
+        "Date_Published": "2001-12-21"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, October 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad1001.htm",
+        "Date_Published": "2001-12-19"
+    }, {
+        "ID": "01-40",
+        "Title": "Input-Output Estimates, 1998",
+        "URL": "http://www.bea.gov/newsreleases/industry/io/2001/io1201.htm",
+        "Date_Published": "2001-12-13"
+    }, {
+        "ID": "01-39",
+        "Title": "U.S. International Transactions Third Quarter 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2001/trans301.htm",
+        "Date_Published": "2001-12-12"
+    }, {
+        "ID": "01-38",
+        "Title": "Personal Income and Outlays, October 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi1001.htm",
+        "Date_Published": "2001-12-03"
+    }, {
+        "ID": "01-37",
+        "Title": "Gross Domestic Product and Corporate Profits Third Quarter 2001 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp301p.htm",
+        "Date_Published": "2001-11-30"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, September 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0901.htm",
+        "Date_Published": "2001-11-20"
+    }, {
+        "ID": "01-35",
+        "Title": "Gross Domestic Product by Industry, 1998-2000",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdpind00.htm",
+        "Date_Published": "2001-11-15"
+    }, {
+        "ID": "N/A",
+        "Title": "In the GDP release scheduled for November 30, Table 12 will be reformatted with a narrower stub area so that extra columns of data may be accommodated.",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1999/table12.htm",
+        "Date_Published": "2001-11-08"
+    }, {
+        "ID": "01-34",
+        "Title": "Personal Income, September 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0901.htm",
+        "Date_Published": "2001-11-01"
+    }, {
+        "ID": "01-33",
+        "Title": "Gross Domestic Product Third Quarter 2001 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp301a.htm",
+        "Date_Published": "2001-10-31"
+    }, {
+        "ID": "01-32",
+        "Title": "State Personal Income Growth: Second Quarter 2001",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi1001.htm",
+        "Date_Published": "2001-10-24"
+    }, {
+        "ID": "01-31",
+        "Title": "Interim State Per Capita Personal Income Estimates: 1991-2000",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi1001pcpi.htm",
+        "Date_Published": "2001-10-19"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, August 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0801.htm",
+        "Date_Published": "2001-10-19"
+    }, {
+        "ID": "01-30",
+        "Title": "Personal Income and Outlays, August 2001.",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0801.htm",
+        "Date_Published": "2001-10-01"
+    }, {
+        "ID": "01-29",
+        "Title": "Gross Domestic Product Second Quarter 2001 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp201f.htm",
+        "Date_Published": "2001-09-28"
+    }, {
+        "ID": "01-28",
+        "Title": "2000 State Personal Income (Revised)",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi0901.htm",
+        "Date_Published": "2001-09-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, July 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0701.htm",
+        "Date_Published": "2001-09-19"
+    }, {
+        "ID": "01-27",
+        "Title": "U.S. International Transactions Second Quarter 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2001/trans201.htm",
+        "Date_Published": "2001-09-12"
+    }, {
+        "ID": "01-26",
+        "Title": "Personal Income and Outlays, July 2001.",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0701.htm",
+        "Date_Published": "2001-08-30"
+    }, {
+        "ID": "01-25",
+        "Title": "Gross Domestic Product and Corporate Profits Second Quarter 2001 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp201p.htm",
+        "Date_Published": "2001-08-29"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, June 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0601.htm",
+        "Date_Published": "2001-08-17"
+    }, {
+        "ID": "01-24",
+        "Title": "Personal Income and Outlays, June 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0601.htm",
+        "Date_Published": "2001-07-31"
+    }, {
+        "ID": "01-23",
+        "Title": "Gross Domestic Product, Second Quarter 2001 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp201a.htm",
+        "Date_Published": "2001-07-27"
+    }, {
+        "ID": "01-22",
+        "Title": "State Personal Income, First Quarter 2000 - First Quarter 2001",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi0701.htm",
+        "Date_Published": "2001-07-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, May 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0501.htm",
+        "Date_Published": "2001-07-19"
+    }, {
+        "ID": "01-21",
+        "Title": "Personal Income and Outlays, May 2001. ",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0501.htm",
+        "Date_Published": "2001-07-02"
+    }, {
+        "ID": "N/A",
+        "Title": "Errata issued July 5, 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/erpi0501.htm",
+        "Date_Published": "2001-07-05"
+    }, {
+        "ID": "01-20",
+        "Title": "Gross Domestic Product, First Quarter 2001 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp101f.htm",
+        "Date_Published": "2001-06-29"
+    }, {
+        "ID": "01-19",
+        "Title": "International Investment Position of the United States, 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/2001/intinv00.htm",
+        "Date_Published": "2001-06-28"
+    }, {
+        "ID": "01-18",
+        "Title": "U.S. International Transactions First Quarter 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2001/trans101.htm",
+        "Date_Published": "2001-06-21"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, April 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0401.htm",
+        "Date_Published": "2001-06-21"
+    }, {
+        "ID": "01-16*",
+        "Title": "Foreign Investors' Spending to Acquire or Establish U.S. Businesses, 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/fdi/2001/fdi00.htm",
+        "Date_Published": "2001-06-06"
+    }, {
+        "ID": "01-16*",
+        "Title": "Gross State Product: New estimates for 1999 and revised estimates for 1993-98",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2001/gsp0601.htm",
+        "Date_Published": "2001-06-04"
+    }, {
+        "ID": "01-14",
+        "Title": "Personal Income and Outlays, April 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0401.htm",
+        "Date_Published": "2001-05-29"
+    }, {
+        "ID": "01-13",
+        "Title": "Gross Domestic Product, First Quarter 2001 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp101p.htm",
+        "Date_Published": "2001-05-25"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, March 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0301.htm",
+        "Date_Published": "2001-05-18"
+    }, {
+        "ID": "01-12",
+        "Title": "Metropolitan Area Personal Income and Per Capita Personal Income: 1999",
+        "URL": "http://www.bea.gov/newsreleases/regional/lapi/2001/mpi0501.htm",
+        "Date_Published": "2001-05-03"
+    }, {
+        "ID": "01-11",
+        "Title": "Personal Income and Outlays, March 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0301.htm",
+        "Date_Published": "2001-04-30"
+    }, {
+        "ID": "01-10",
+        "Title": "Gross Domestic Product, First Quarter 2001 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp101a.htm",
+        "Date_Published": "2001-04-27"
+    }, {
+        "ID": "01-09",
+        "Title": "State Personal Income & State Per Capita Personal Income: 2000; State Personal Income: Fourth Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi0401.htm",
+        "Date_Published": "2001-04-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, February 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0201.htm",
+        "Date_Published": "2001-04-18"
+    }, {
+        "ID": "01-08",
+        "Title": "Personal Income and Outlays, February 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0201.htm",
+        "Date_Published": "2001-03-30"
+    }, {
+        "ID": "01-07",
+        "Title": "Gross Domestic Product, Fourth Quarter 2000 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp400f.htm",
+        "Date_Published": "2001-03-29"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, January 2001",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad0101.htm",
+        "Date_Published": "2001-03-20"
+    }, {
+        "ID": "01-06",
+        "Title": "U.S. International Transactions Fourth Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2001/trans400.htm",
+        "Date_Published": "2001-03-15"
+    }, {
+        "ID": "01-05",
+        "Title": "Personal Income and Outlays, January 2001",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi0101.htm",
+        "Date_Published": "2001-03-01"
+    }, {
+        "ID": "01-04",
+        "Title": "Gross Domestic Product, Fourth Quarter 2000 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp400p.htm",
+        "Date_Published": "2001-02-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, December 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad1200.htm",
+        "Date_Published": "2001-02-21"
+    }, {
+        "ID": "01-03",
+        "Title": "Personal Income and Outlays, December 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2001/pi1200.htm",
+        "Date_Published": "2001-02-01"
+    }, {
+        "ID": "01-02",
+        "Title": "Gross Domestic Product, Fourth Quarter 2000 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2001/gdp400a.htm",
+        "Date_Published": "2001-01-31"
+    }, {
+        "ID": "01-01",
+        "Title": "State Personal Income, Third Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2001/spi0101.htm",
+        "Date_Published": "2001-01-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, November 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2001/trad1100.htm",
+        "Date_Published": "2001-01-19"
+    }, {
+        "ID": "00-39",
+        "Title": "Personal Income and Outlays, November 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi1100.htm",
+        "Date_Published": "2000-12-22"
+    }, {
+        "ID": "00-38",
+        "Title": "Gross Domestic Product, Third Quarter 2000 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp300f.htm",
+        "Date_Published": "2000-12-21"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, October 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad1000.htm",
+        "Date_Published": "2000-12-19"
+    }, {
+        "ID": "00-37",
+        "Title": "Input-Output Estimates, 1997",
+        "URL": "http://www.bea.gov/newsreleases/industry/io/2000/io1200.htm",
+        "Date_Published": "2000-12-18"
+    }, {
+        "ID": "00-36",
+        "Title": "U.S. International Transactions Third Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2000/trans300.htm",
+        "Date_Published": "2000-12-14"
+    }, {
+        "ID": "00-35",
+        "Title": "Personal Income and Outlays, October 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi1000.htm",
+        "Date_Published": "2000-11-30"
+    }, {
+        "ID": "00-34",
+        "Title": "Gross Domestic Product, Third Quarter 2000 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp300p.htm",
+        "Date_Published": "2000-11-29"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, September 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0900.htm",
+        "Date_Published": "2000-11-21"
+    }, {
+        "ID": "00-33",
+        "Title": "Personal Income and Outlays, September 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0900.htm",
+        "Date_Published": "2000-10-30"
+    }, {
+        "ID": "00-32",
+        "Title": "Gross Domestic Product, Third Quarter 2000 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp300a.htm",
+        "Date_Published": "2000-10-27"
+    }, {
+        "ID": "00-31",
+        "Title": "State Personal Income, Second Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2000/spi1000.htm",
+        "Date_Published": "2000-10-25"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, August 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0800.htm",
+        "Date_Published": "2000-10-19"
+    }, {
+        "ID": "00-30",
+        "Title": "Personal Income, August 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0800.htm",
+        "Date_Published": "2000-09-29"
+    }, {
+        "ID": "00-29",
+        "Title": "Gross Domestic Product, Second Quarter 2000 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp200f.htm",
+        "Date_Published": "2000-09-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, July 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0700.htm",
+        "Date_Published": "2000-09-20"
+    }, {
+        "ID": "00-28",
+        "Title": "U.S. International Transactions Second Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2000/trans200.htm",
+        "Date_Published": "2000-09-13"
+    }, {
+        "ID": "00-27",
+        "Title": "1999 State Per Capita Income (Revised)",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2000/spi0900.htm",
+        "Date_Published": "2000-09-12"
+    }, {
+        "ID": "00-26",
+        "Title": "Gross State Product 1992-98",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_state/2000/gsp_0900.htm",
+        "Date_Published": "2000-09-05"
+    }, {
+        "ID": "00-25",
+        "Title": "Personal Income, July 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0700.htm",
+        "Date_Published": "2000-08-28"
+    }, {
+        "ID": "00-24",
+        "Title": "Gross Domestic Product, Second Quarter 2000 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp200p.htm",
+        "Date_Published": "2000-08-25"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, June 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0600.htm",
+        "Date_Published": "2000-08-18"
+    }, {
+        "ID": "00-23",
+        "Title": "Personal Income, June 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0600.htm",
+        "Date_Published": "2000-08-01"
+    }, {
+        "ID": "00-22",
+        "Title": "Corrected Gross Domestic Product, Second Quarter 2000 &quot;advance&quot; estimate and revised estimates for 1997:I through 2000:I",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp200a.htm",
+        "Date_Published": "2000-07-28"
+    }, {
+        "ID": "00-21",
+        "Title": "State Personal Income, First Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2000/spi0700.htm",
+        "Date_Published": "2000-07-25"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services May 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0500.htm",
+        "Date_Published": "2000-07-19"
+    }, {
+        "ID": "00-20",
+        "Title": "Transportation Satellite Accounts, 1996",
+        "URL": "http://www.bea.gov/newsreleases/general/tsa/1996/tsa96.htm",
+        "Date_Published": "2000-07-10"
+    }, {
+        "ID": "00-19",
+        "Title": "Personal Income, May 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0500.htm",
+        "Date_Published": "2000-06-30"
+    }, {
+        "ID": "00-18",
+        "Title": "International Investment Position of the United States, 1999",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/2000/intinv99.htm",
+        "Date_Published": "2000-06-29"
+    }, {
+        "ID": "00-17",
+        "Title": "Gross Domestic Product, First Quarter 2000 &quot;final&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp100f.htm",
+        "Date_Published": "2000-06-29"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services April 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0400.htm",
+        "Date_Published": "2000-06-20"
+    }, {
+        "ID": "00-16",
+        "Title": "U.S. International Transactions First Quarter 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2000/trans100.htm",
+        "Date_Published": "2000-06-20"
+    }, {
+        "ID": "00-15",
+        "Title": "1998 Local (Metropolitan) Area Personal Income and Per Capita Personal Income: Revised Estimates for 1969-97",
+        "URL": "http://www.bea.gov/newsreleases/regional/lapi/2000/mpi0600.htm",
+        "Date_Published": "2000-06-15"
+    }, {
+        "ID": "00-14",
+        "Title": "Foreign Investors' Spending to Acquire or Establish U.S. Businesses, 1999",
+        "URL": "http://www.bea.gov/newsreleases/international/fdi/2000/fdi99.htm",
+        "Date_Published": "2000-06-07"
+    }, {
+        "ID": "00-13",
+        "Title": "Personal Income, April 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0400.htm",
+        "Date_Published": "2000-05-26"
+    }, {
+        "ID": "00-12",
+        "Title": "Gross Domestic Product, First Quarter 2000 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp100p.htm",
+        "Date_Published": "2000-05-25"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, March 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0300.htm",
+        "Date_Published": "2000-05-19"
+    }, {
+        "ID": "00-11",
+        "Title": "1999 State per Capita Personal Income and State Personal Income (Preliminary)",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2000/spi0500.htm",
+        "Date_Published": "2000-05-17"
+    }, {
+        "ID": "00-10",
+        "Title": "Personal Income, March 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0300.htm",
+        "Date_Published": "2000-04-28"
+    }, {
+        "ID": "00-09",
+        "Title": "Gross Domestic Product, First Quarter 2000 &quot;advance&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp100a.htm",
+        "Date_Published": "2000-04-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, February 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0200.htm",
+        "Date_Published": "2000-04-19"
+    }, {
+        "ID": "00-08",
+        "Title": "Personal Income, February 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pdf/pi0200.pdf",
+        "Date_Published": "2000-03-31"
+    }, {
+        "ID": "00-07",
+        "Title": "Gross Domestic Product, Fourth Quarter 1999 &quot;final&quot; estimate; Revised estimates, 1929-99; Corporate Profits: Fourth Quarter 1999; Fixed Assets and Consumer Durable Goods: 1972-98",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp499f.htm",
+        "Date_Published": "2000-03-30"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, January 2000",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad0100.htm",
+        "Date_Published": "2000-03-21"
+    }, {
+        "ID": "00-06*",
+        "Title": "U.S. International Transactions, Fourth Quarter 1999",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2000/trans499.htm",
+        "Date_Published": "2000-03-15"
+    }, {
+        "ID": "00-05",
+        "Title": "Personal Income, January 2000",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi0100.htm",
+        "Date_Published": "2000-02-28"
+    }, {
+        "ID": "00-04",
+        "Title": "Gross Domestic Product, Fourth Quarter 1999 &quot;preliminary&quot; estimate",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp499p.htm",
+        "Date_Published": "2000-02-25"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, December 1999",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad1299.htm",
+        "Date_Published": "2000-02-18"
+    }, {
+        "ID": "00-03",
+        "Title": "Personal Income, December 1999",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2000/pi1299.htm",
+        "Date_Published": "2000-01-31"
+    }, {
+        "ID": "00-02",
+        "Title": "Gross Domestic Product, Fourth Quarter 1999 &quot;advance&quot;",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/2000/gdp499a.htm",
+        "Date_Published": "2000-01-28"
+    }, {
+        "ID": "00-01",
+        "Title": "State Personal Income, Third Quarter 1999",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/2000/spi0100.htm",
+        "Date_Published": "2000-01-26"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, November 1999",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2000/trad1199.htm",
+        "Date_Published": "2000-01-20"
+    }, {
+        "ID": "99-38",
+        "Title": "Personal Income, November 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi1199.htm",
+        "Date_Published": "1999-12-23"
+    }, {
+        "ID": "99-37",
+        "Title": "Gross Domestic Product, Third Quarter 1999 &quot;final&quot;",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp399f.htm",
+        "Date_Published": "1999-12-22"
+    }, {
+        "ID": "99-36",
+        "Title": "Input-Output Accounts of the U.S. Economy, 1996",
+        "URL": "http://bea.gov/newsreleases/industry/io/1999/io1299.htm",
+        "Date_Published": "1999-12-20"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, October 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad1099.htm",
+        "Date_Published": "1999-12-16"
+    }, {
+        "ID": "99-35",
+        "Title": "U.S. International Transactions Third Quarter 1999",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1999/trans399.htm",
+        "Date_Published": "1999-12-14"
+    }, {
+        "ID": "99-34",
+        "Title": "Personal Income, October 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi1099.htm",
+        "Date_Published": "1999-11-26"
+    }, {
+        "ID": "99-33",
+        "Title": "Gross Domestic Product, Third Quarter 1999 &quot;preliminary&quot;",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp399p.htm",
+        "Date_Published": "1999-11-24"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, September 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0999.htm",
+        "Date_Published": "1999-11-18"
+    }, {
+        "ID": "N/A",
+        "Title": "Description of formats of forthcoming GDP news releases, along with sample tables",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/nr99read.txt",
+        "Date_Published": "1999-11-17"
+    }, {
+        "ID": "99-32",
+        "Title": "Personal Income, September 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0999.htm",
+        "Date_Published": "1999-11-02"
+    }, {
+        "ID": "99-31",
+        "Title": "Gross Domestic Product, comprehensive revision of the national income and product accounts, with &quot;advance&quot; estimates for third quarter 1999",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp399a.htm",
+        "Date_Published": "1999-10-28"
+    }, {
+        "ID": "99-30",
+        "Title": "State Personal Income, Second Quarter 1999",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1999/spi1099.htm",
+        "Date_Published": "1999-10-26"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, August 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0899.htm",
+        "Date_Published": "1999-10-20"
+    }, {
+        "ID": "99-29",
+        "Title": "Personal Income, August 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0899.htm",
+        "Date_Published": "1999-10-01"
+    }, {
+        "ID": "99-28",
+        "Title": "Gross Domestic Product, Second Quarter 1999 &quot;final&quot; estimate",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp299f.htm",
+        "Date_Published": "1999-09-30"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, July 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0799.htm",
+        "Date_Published": "1999-09-21"
+    }, {
+        "ID": "99-27",
+        "Title": "U.S. International Transactions Second Quarter 1999",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1999/trans299.htm",
+        "Date_Published": "1999-09-14"
+    }, {
+        "ID": "99-26",
+        "Title": "Personal Income, July 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0799.htm",
+        "Date_Published": "1999-08-27"
+    }, {
+        "ID": "99-25",
+        "Title": "Gross Domestic Product, Second Quarter 1999 &quot;preliminary&quot;",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp299p.htm",
+        "Date_Published": "1999-08-26"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services June 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0699.htm",
+        "Date_Published": "1999-08-19"
+    }, {
+        "ID": "99-24",
+        "Title": "Personal Income, June 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0699.htm",
+        "Date_Published": "1999-07-30"
+    }, {
+        "ID": "99-23",
+        "Title": "Gross Domestic Product, Second Quarter 1999 &quot;advance&quot;",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp299a.htm",
+        "Date_Published": "1999-07-29"
+    }, {
+        "ID": "99-22",
+        "Title": "State Personal Income, First Quarter 1999",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1999/spi0799.htm",
+        "Date_Published": "1999-07-27"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services May 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0599.htm",
+        "Date_Published": "1999-07-20"
+    }, {
+        "ID": "99-21",
+        "Title": "International Investment Position of the United States, 1998",
+        "URL": "http://bea.gov/newsreleases/international/intinv/1999/intinv98.htm",
+        "Date_Published": "1999-06-30"
+    }, {
+        "ID": "99-20",
+        "Title": "Personal Income, May 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0599.htm",
+        "Date_Published": "1999-06-28"
+    }, {
+        "ID": "99-19",
+        "Title": "Gross Domestic Product, First Quarter 1999 &quot;final&quot; estimate",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp199f.htm",
+        "Date_Published": "1999-06-25"
+    }, {
+        "ID": "99-18",
+        "Title": "U.S. International Transactions First Quarter 1999",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1999/trans199.htm",
+        "Date_Published": "1999-06-17"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services April 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0499.htm",
+        "Date_Published": "1999-06-17"
+    }, {
+        "ID": "99-17",
+        "Title": "Foreign Investors' Spending to Acquire or Establish U.S. Businesses, 1998",
+        "URL": "http://bea.gov/newsreleases/international/fdi/1999/fdi98.htm",
+        "Date_Published": "1999-06-10"
+    }, {
+        "ID": "99-16",
+        "Title": "Gross State Product, New Estimates for 1997 and Revised Estimates for 1995-96",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/1999/gsp_0699.htm",
+        "Date_Published": "1999-06-07"
+    }, {
+        "ID": "99-15",
+        "Title": "Personal Income, April 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0499.htm",
+        "Date_Published": "1999-05-28"
+    }, {
+        "ID": "99-14",
+        "Title": "Gross Domestic Product, First Quarter 1999 &quot;preliminary&quot; estimate",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp199p.htm",
+        "Date_Published": "1999-05-27"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services for March 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0399.htm",
+        "Date_Published": "1999-05-20"
+    }, {
+        "ID": "99-13",
+        "Title": "1997 Local Area Personal Income for counties, metropolitan areas, and nonmetropolitan areas",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/1999/mpi97.htm",
+        "Date_Published": "1999-05-06"
+    }, {
+        "ID": "99-12",
+        "Title": "Personal Income, March 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0399.htm",
+        "Date_Published": "1999-05-03"
+    }, {
+        "ID": "99-11",
+        "Title": "Gross Domestic Product, First Quarter 1999 &quot;advance&quot; estimate",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp199a.htm",
+        "Date_Published": "1999-04-30"
+    }, {
+        "ID": "99-10",
+        "Title": "State Personal Income, 4th quarter 1998 and Per Capita Personal Income, 1998 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1999/spi0499.htm",
+        "Date_Published": "1999-04-27"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services for February 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0299.htm",
+        "Date_Published": "1999-04-20"
+    }, {
+        "ID": "99-09",
+        "Title": "Personal Income, February 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0299.htm",
+        "Date_Published": "1999-04-01"
+    }, {
+        "ID": "99-08",
+        "Title": "Gross Domestic Product, Fourth Quarter 1998 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp498f.htm",
+        "Date_Published": "1999-03-31"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services for January 1999",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad0199.htm",
+        "Date_Published": "1999-03-18"
+    }, {
+        "ID": "99-07",
+        "Title": "U.S. International Transactions, Fourth Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1999/trans498.htm",
+        "Date_Published": "1999-03-11"
+    }, {
+        "ID": "99-06",
+        "Title": "Personal Income, January 1999",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi0199.htm",
+        "Date_Published": "1999-03-01"
+    }, {
+        "ID": "99-05",
+        "Title": "Gross Domestic Product, Fourth Quarter 1998 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp498p.htm",
+        "Date_Published": "1999-02-26"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services for December 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad1298.htm",
+        "Date_Published": "1999-02-19"
+    }, {
+        "ID": "99-04",
+        "Title": "Resources Needed to Measure the New Millennium Economy",
+        "URL": "http://bea.gov/newsreleases/archive/1999/bea-9904.htm",
+        "Date_Published": "1999-02-01"
+    }, {
+        "ID": "99-03",
+        "Title": "Personal Income, December 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1999/pi1298.htm",
+        "Date_Published": "1999-02-01"
+    }, {
+        "ID": "99-02",
+        "Title": "Gross Domestic Product, Fourth Quarter 1998 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1999/gdp498a.htm",
+        "Date_Published": "1999-01-29"
+    }, {
+        "ID": "99-01",
+        "Title": "State Quarterly Personal Income, Third Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1999/spi0199.htm",
+        "Date_Published": "1999-01-26"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, November 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1999/trad1198.htm",
+        "Date_Published": "1999-01-21"
+    }, {
+        "ID": "98-39",
+        "Title": "Personal Income, November 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi1198.htm",
+        "Date_Published": "1998-12-24"
+    }, {
+        "ID": "98-38",
+        "Title": "Gross Domestic Product, Third Quarter 1998 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp398f.htm",
+        "Date_Published": "1998-12-23"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, October 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad1098.htm",
+        "Date_Published": "1998-12-17"
+    }, {
+        "ID": "98-37",
+        "Title": "U.S. International Transactions: Third Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1998/trans398.htm",
+        "Date_Published": "1998-12-09"
+    }, {
+        "ID": "98-36",
+        "Title": "Personal Income, October 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi1098.htm",
+        "Date_Published": "1998-11-25"
+    }, {
+        "ID": "98-35",
+        "Title": "Gross Domestic Product, Third Quarter 1998 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp398p.htm",
+        "Date_Published": "1998-11-24"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, September 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0998.htm",
+        "Date_Published": "1998-11-18"
+    }, {
+        "ID": "98-34",
+        "Title": " Personal Income, September 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0998.htm",
+        "Date_Published": "1998-11-02"
+    }, {
+        "ID": "98-33",
+        "Title": "Gross Domestic Product, Third Quarter 1998 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp398a.htm",
+        "Date_Published": "1998-10-30"
+    }, {
+        "ID": "98-32",
+        "Title": "State Quarterly Personal Income, Second Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1998/spi1098.htm",
+        "Date_Published": "1998-10-27"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, August 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0898.htm",
+        "Date_Published": "1998-10-20"
+    }, {
+        "ID": "98-31",
+        "Title": "Personal Income, August 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0898.htm",
+        "Date_Published": "1998-09-25"
+    }, {
+        "ID": "98-30",
+        "Title": "Gross Domestic Product, Second Quarter 1998 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp298f.htm",
+        "Date_Published": "1998-09-24"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, July 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0798.htm",
+        "Date_Published": "1998-09-17"
+    }, {
+        "ID": "98-29",
+        "Title": "State Per Capita Personal Income, 1997 (revised)",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1998/spi0998.htm",
+        "Date_Published": "1998-09-14"
+    }, {
+        "ID": "98-28",
+        "Title": "U.S. International Transactions: Second Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1998/trans298.htm",
+        "Date_Published": "1998-09-10"
+    }, {
+        "ID": "98-27",
+        "Title": "Personal Income, July 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0798.htm",
+        "Date_Published": "1998-08-28"
+    }, {
+        "ID": "98-26",
+        "Title": "Gross Domestic Product, Second quarter 1998 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp298p.htm",
+        "Date_Published": "1998-08-27"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, June 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0698.htm",
+        "Date_Published": "1998-08-18"
+    }, {
+        "ID": "98-25",
+        "Title": "Personal Income, June 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0698.htm",
+        "Date_Published": "1998-08-03"
+    }, {
+        "ID": "N/A",
+        "Title": "Errata - Personal Income, June 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/erratapi.txt",
+        "Date_Published": "1998-08-03"
+    }, {
+        "ID": "98-",
+        "Title": "Gross Domestic Product, Second Quarter 1998 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp298a.htm",
+        "Date_Published": "1998-07-31"
+    }, {
+        "ID": "98-24",
+        "Title": "State Personal Income, First Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1998/spi0798.htm",
+        "Date_Published": "1998-07-23"
+    }, {
+        "ID": "N/A",
+        "Title": "US International Trade in Goods and Services, May 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0598.htm",
+        "Date_Published": "1998-07-17"
+    }, {
+        "ID": "98-22",
+        "Title": "Travel and Tourism Spending in the United States: 1992",
+        "URL": "http://bea.gov/newsreleases/industry/tourism/1998/travel92.htm",
+        "Date_Published": "1998-07-13"
+    }, {
+        "ID": "98-21",
+        "Title": "International Investment Position of  the United States, 1997",
+        "URL": "http://bea.gov/newsreleases/international/intinv/1998/intinv97.htm",
+        "Date_Published": "1998-06-30"
+    }, {
+        "ID": "98-20",
+        "Title": "Personal Income, May 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0598.htm",
+        "Date_Published": "1998-06-26"
+    }, {
+        "ID": "98-19",
+        "Title": "Gross Domestic Product, First Quarter 1998 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp198f.htm",
+        "Date_Published": "1998-06-25"
+    }, {
+        "ID": "98-18",
+        "Title": "U.S. International Transactions: First Quarter 1998",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1998/trans198.htm",
+        "Date_Published": "1998-06-18"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, April 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0498.htm",
+        "Date_Published": "1998-06-18"
+    }, {
+        "ID": "98-17",
+        "Title": "Foreign Investors' Spending, 1997",
+        "URL": "http://bea.gov/newsreleases/international/fdi/1998/fdi97.htm",
+        "Date_Published": "1998-06-10"
+    }, {
+        "ID": "98-16",
+        "Title": "Gross State Product: New Estimates for 1995-1996 and Revised Estimates for 1977-94",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/1998/gsp_0698.htm",
+        "Date_Published": "1998-06-02"
+    }, {
+        "ID": "98-15",
+        "Title": "Personal Income, April 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0498.htm",
+        "Date_Published": "1998-05-29"
+    }, {
+        "ID": "98-14",
+        "Title": "Gross Domestic Product, First Quarter 1998 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp198p.htm",
+        "Date_Published": "1998-05-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, March 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0398.htm",
+        "Date_Published": "1998-05-20"
+    }, {
+        "ID": "98-13",
+        "Title": "1996 Local Area Personal Income",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/1998/mpi96.htm",
+        "Date_Published": "1998-05-04"
+    }, {
+        "ID": "98-12",
+        "Title": "Personal Income, March 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0398.htm",
+        "Date_Published": "1998-05-01"
+    }, {
+        "ID": "98-11",
+        "Title": "Gross Domestic Product, First Quarter 1998 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp198a.htm",
+        "Date_Published": "1998-04-30"
+    }, {
+        "ID": "98-10",
+        "Title": "1997 State Per Capita Personal Income and State Personal Income",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1998/spi497.htm",
+        "Date_Published": "1998-04-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, February 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0298.htm",
+        "Date_Published": "1998-04-17"
+    }, {
+        "ID": "98-09",
+        "Title": "New Accounts Show Expanded Role of Transportation in the U.S. Economy",
+        "URL": "http://bea.gov/newsreleases/general/tsa/1998/bea9809.HTM",
+        "Date_Published": "1998-04-13"
+    }, {
+        "ID": "98-08",
+        "Title": "Personal Income, February 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0298.htm",
+        "Date_Published": "1998-03-27"
+    }, {
+        "ID": "98-07",
+        "Title": "Gross Domestic Product, Fourth Quarter 1997 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp497f.htm",
+        "Date_Published": "1998-03-26"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, January 1998",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad0198.htm",
+        "Date_Published": "1998-03-19"
+    }, {
+        "ID": "98-06",
+        "Title": "U.S. International Transactions: Fourth Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1998/trans497.htm",
+        "Date_Published": "1998-03-12"
+    }, {
+        "ID": "98-05",
+        "Title": "Personal Income, January 1998",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi0198.htm",
+        "Date_Published": "1998-03-02"
+    }, {
+        "ID": "98-04",
+        "Title": "Gross Domestic Product, Fourth Quarter 1997 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp497p.htm",
+        "Date_Published": "1998-02-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, December 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad1297.htm",
+        "Date_Published": "1998-02-19"
+    }, {
+        "ID": "98-03",
+        "Title": "Personal Income, December 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1998/pi1297.htm",
+        "Date_Published": "1998-02-02"
+    }, {
+        "ID": "98-02",
+        "Title": "Gross Domestic Product, Fourth Quarter 1997 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1998/gdp497a.htm",
+        "Date_Published": "1998-01-30"
+    }, {
+        "ID": "98-01",
+        "Title": "State Personal Income, Third Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1998/spi397.htm",
+        "Date_Published": "1998-01-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, November 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1998/trad1197.htm",
+        "Date_Published": "1998-01-21"
+    }, {
+        "ID": "97-39",
+        "Title": "Personal Income, November 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi1197.txt",
+        "Date_Published": "1997-12-24"
+    }, {
+        "ID": "97-38",
+        "Title": "Gross Domestic Product, Third Quarter 1997 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp397f.txt",
+        "Date_Published": "1997-12-23"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, October 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad1097.txt",
+        "Date_Published": "1997-12-18"
+    }, {
+        "ID": "97-37",
+        "Title": "U.S. International Transactions: Third Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1997/trans397.txt",
+        "Date_Published": "1997-12-10"
+    }, {
+        "ID": "97-36",
+        "Title": "Personal Income, October 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi1097.txt",
+        "Date_Published": "1997-11-28"
+    }, {
+        "ID": "97-35",
+        "Title": "Gross Domestic Product, Third Quarter 1997 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp397p.txt",
+        "Date_Published": "1997-11-26"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods & Services, September 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad0997.txt",
+        "Date_Published": "1997-11-20"
+    }, {
+        "ID": "97-34",
+        "Title": "Personal Income, September 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0997.txt",
+        "Date_Published": "1997-11-03"
+    }, {
+        "ID": "97-33",
+        "Title": "Gross Domestic Product, Third Quarter 1997 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp397a.txt",
+        "Date_Published": "1997-10-31"
+    }, {
+        "ID": "97-32",
+        "Title": "State Personal Income, Second Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1997/spi297.txt",
+        "Date_Published": "1997-10-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, August 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad0897.txt",
+        "Date_Published": "1997-10-21"
+    }, {
+        "ID": "97-30",
+        "Title": "Personal Income, August 1997 ",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0897.txt",
+        "Date_Published": "1997-09-29"
+    }, {
+        "ID": "97-31",
+        "Title": "Gross Domestic Product and Corporate Profits, Second Quarter 1997 (final) ",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp297f.txt",
+        "Date_Published": "1997-09-26"
+    }, {
+        "ID": "97-29",
+        "Title": "State per capita personal income growth in 1996",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1997/spci.txt",
+        "Date_Published": "1997-09-19"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, July 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad797.txt",
+        "Date_Published": "1997-09-18"
+    }, {
+        "ID": "97-28",
+        "Title": "U.S. International Transactions: Second Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1997/trans297.txt",
+        "Date_Published": "1997-09-11"
+    }, {
+        "ID": "97-27",
+        "Title": "Personal Income, July 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0797.txt",
+        "Date_Published": "1997-08-29"
+    }, {
+        "ID": "97-26",
+        "Title": "Gross Domestic Product and Corporate Profits, Second Quarter 1997 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp297p.txt",
+        "Date_Published": "1997-08-28"
+    }, {
+        "ID": "97-25",
+        "Title": "Metropolitan Area Personal Income, 1995",
+        "URL": "http://bea.gov/newsreleases/regional/lapi/1997/mpi95.txt",
+        "Date_Published": "1997-08-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, June 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad697.txt",
+        "Date_Published": "1997-08-20"
+    }, {
+        "ID": "97-24",
+        "Title": "Personal Income and Outlays, June 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0697.txt",
+        "Date_Published": "1997-08-01"
+    }, {
+        "ID": "97-23",
+        "Title": "Gross Domestic Product: Second Quarter 1997 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp297a.txt",
+        "Date_Published": "1997-07-31"
+    }, {
+        "ID": "97-22",
+        "Title": "State Quarterly Personal Income, First Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1997/spi197.txt",
+        "Date_Published": "1997-07-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, May 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad597.txt",
+        "Date_Published": "1997-07-18"
+    }, {
+        "ID": "97-19",
+        "Title": "Personal Income and Outlays, May 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0597.txt",
+        "Date_Published": "1997-06-30"
+    }, {
+        "ID": "97-20",
+        "Title": "U.S. Net International Investment Position, 1996",
+        "URL": "http://bea.gov/newsreleases/international/intinv/1997/invst96.txt",
+        "Date_Published": "1997-06-30"
+    }, {
+        "ID": "97-18",
+        "Title": "Gross Domestic Product: First Quarter 1997 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp197f.txt",
+        "Date_Published": "1997-06-27"
+    }, {
+        "ID": "97-17",
+        "Title": "U.S. International Transactions: First Quarter 1997",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1997/tran197.txt",
+        "Date_Published": "1997-06-19"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, April 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad497.txt",
+        "Date_Published": "1997-06-19"
+    }, {
+        "ID": "97-16",
+        "Title": "Foreign Investors' Spending, 1996",
+        "URL": "http://bea.gov/newsreleases/international/fdi/1997/fdi96.txt",
+        "Date_Published": "1997-06-10"
+    }, {
+        "ID": "97-15",
+        "Title": "Gross State Product, New estimates for 1993-94 & revised for 1977-92",
+        "URL": "http://bea.gov/newsreleases/regional/gdp_state/1997/gsp7794.txt",
+        "Date_Published": "1997-06-03"
+    }, {
+        "ID": "97-14",
+        "Title": "Personal Income and Outlays, April 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0497.txt",
+        "Date_Published": "1997-06-02"
+    }, {
+        "ID": "97-13",
+        "Title": "Gross Domestic Product: First Quarter 1997 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp197p.txt",
+        "Date_Published": "1997-05-30"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, March 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad397.txt",
+        "Date_Published": "1997-05-21"
+    }, {
+        "ID": "97-11",
+        "Title": "Personal Income and Outlays, March 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0397.txt",
+        "Date_Published": "1997-05-01"
+    }, {
+        "ID": "97-10",
+        "Title": "Gross Domestic Product: First Quarter 1997 (advance) ",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp197a.txt",
+        "Date_Published": "1997-04-30"
+    }, {
+        "ID": "97-09",
+        "Title": "State Per Capita Income Growth in 1996 ",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1997/spi496.txt",
+        "Date_Published": "1997-04-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, February 1997 (revised)",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad297r.txt",
+        "Date_Published": "1997-04-25"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, February 1997  ",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad297.txt",
+        "Date_Published": "1997-04-17"
+    }, {
+        "ID": "97-08",
+        "Title": "Personal Income and Outlays, February 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0297.txt",
+        "Date_Published": "1997-03-31"
+    }, {
+        "ID": "97-07",
+        "Title": "Gross Domestic Product: Fourth Quarter 1996 (final)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp496f.txt",
+        "Date_Published": "1997-03-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, January 1997",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad197.txt",
+        "Date_Published": "1997-03-20"
+    }, {
+        "ID": "97-06",
+        "Title": "U.S. International Transactions: Fourth Quarter 1996",
+        "URL": "http://bea.gov/newsreleases/international/transactions/1997/tran496.txt",
+        "Date_Published": "1997-03-13"
+    }, {
+        "ID": "97-05",
+        "Title": "Personal Income and Outlays,  January 1997",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi0197.txt",
+        "Date_Published": "1997-03-03"
+    }, {
+        "ID": "97-04",
+        "Title": "Gross Domestic Product: Fourth Quarter 1996 (preliminary)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp496p.txt",
+        "Date_Published": "1997-02-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, December 1996",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad1296.txt",
+        "Date_Published": "1997-02-19"
+    }, {
+        "ID": "97-03",
+        "Title": "Personal Income and Outlays, December 1996",
+        "URL": "http://bea.gov/newsreleases/national/pi/1997/pi1296.txt",
+        "Date_Published": "1997-02-03"
+    }, {
+        "ID": "97-02",
+        "Title": "Gross Domestic Product: Fourth Quarter 1996 (advance)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/1997/gdp496a.txt",
+        "Date_Published": "1997-01-31"
+    }, {
+        "ID": "97-01",
+        "Title": "State Personal Income, Third Quarter 1996",
+        "URL": "http://bea.gov/newsreleases/regional/spi/1997/spi396.txt",
+        "Date_Published": "1997-01-28"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, November 1996",
+        "URL": "http://bea.gov/newsreleases/international/trade/1997/trad1196.txt",
+        "Date_Published": "1997-01-17"
+    }, {
+    "ID": "96-41",
+    "Title": "Personal Income and Outlays, November 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1196.txt",
+    "Date_Published": "1996-12-23"
+}, {
+    "ID": "96-40",
+    "Title": "Gross Domestic Product: Third Quarter 1996 (final)",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396f.txt",
+    "Date_Published": "1996-12-20"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, October 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trd9610.txt",
+    "Date_Published": "1996-12-19"
+}, {
+    "ID": "96-39",
+    "Title": "U.S. International Transactions: Third Quarter 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran396.txt",
+    "Date_Published": "1996-12-10"
+}, {
+    "ID": "96-38",
+    "Title": "Personal Income and Outlays, October 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1096.txt",
+    "Date_Published": "1996-11-29"
+}, {
+    "ID": "96-37",
+    "Title": "Gross Domestic Product: Third Quarter 1996 (preliminary) and Corporate Profits: Third Quarter 1996 (preliminary)",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396p.txt",
+    "Date_Published": "1996-11-27"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, September 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9609.txt",
+    "Date_Published": "1996-11-20"
+}, {
+    "ID": "96-36",
+    "Title": "State Personal Income Second Quarter 1996",
+    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi296.txt",
+    "Date_Published": "1996-11-07"
+}, {
+    "ID": "96-35",
+    "Title": "Personal Income and Outlays, September 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0996.txt",
+    "Date_Published": "1996-10-31"
+}, {
+    "ID": "96-34",
+    "Title": "Gross Domestic Product: Third Quarter 1996 (advance)",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396a.txt",
+    "Date_Published": "1996-10-30"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, August 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9608.txt",
+    "Date_Published": "1996-10-18"
+}, {
+    "ID": "96-33",
+    "Title": "Personal Income and Outlays, August 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0896.txt",
+    "Date_Published": "1996-09-30"
+}, {
+    "ID": "96-32",
+    "Title": "Gross Domestic Product: Second Quarter 1996 (final) and Corporate Profits: Second Quarter 1996 (revised)",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296f.txt",
+    "Date_Published": "1996-09-27"
+}, {
+    "ID": "96-31",
+    "Title": "State Per Capita Personal Income Growth in 1995",
+    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi95.txt",
+    "Date_Published": "1996-09-24"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, July 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9607.txt",
+    "Date_Published": "1996-09-18"
+}, {
+    "ID": "96-30",
+    "Title": "U.S. International Transactions, Second Quarter 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran296.txt",
+    "Date_Published": "1996-09-10"
+}, {
+    "ID": "96-29",
+    "Title": "Pollution Abatement and Control Spending for 1994",
+    "URL": "http://www.bea.gov/newsreleases/general/1996/pol-abt.txt",
+    "Date_Published": "1996-09-09"
+}, {
+    "ID": "96-28",
+    "Title": "Personal Income and Outlays, July 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0796.txt",
+    "Date_Published": "1996-08-30"
+}, {
+    "ID": "96-27",
+    "Title": "Gross Domestic Product: Second Quarter 1996 (preliminary) and Corporate Profits: Second Quarter 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296p.txt",
+    "Date_Published": "1996-08-29"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, June 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9606.txt",
+    "Date_Published": "1996-08-20"
+}, {
+    "ID": "96-26",
+    "Title": "Gross Product by Industry, 1977-94",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gpxind.txt",
+    "Date_Published": "1996-08-08"
+}, {
+    "ID": "96-25",
+    "Title": "Personal Income and Outlays, June 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0696.txt",
+    "Date_Published": "1996-08-02"
+}, {
+    "ID": "96-24",
+    "Title": "Gross Domestic Product: Second Quarter 1996 (advance) and Revised Estimates",
+    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296a.txt",
+    "Date_Published": "1996-08-01"
+}, {
+    "ID": "96-22",
+    "Title": "State Quarterly Personal Income, First Quarter 1996",
+    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi196.txt",
+    "Date_Published": "1996-07-24"
+}, {
+    "ID": "N/A",
+    "Title": "U.S. International Trade in Goods and Services, May 1996",
+    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9605.txt",
+    "Date_Published": "1996-07-18"
+}, {
+    "ID": "96-20",
+    "Title": "International Investment Position of the United States, 1995",
+    "URL": "http://www.bea.gov/newsreleases/international/intinv/1996/int-inv.txt",
+    "Date_Published": "1996-07-02"
+}, {
+    "ID": "96-19",
+    "Title": "Personal Income and Outlays, May 1996",
+    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0596.txt",
+    "Date_Published": "1996-07-01"
+}]
 }
