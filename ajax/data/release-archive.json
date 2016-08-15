@@ -1,5 +1,20 @@
 {
     "data": [{
+        "ID": "16-43",
+        "Title": "Gross Domestic Product for American Somoa, 2016",
+        "URL": "http://www.bea.gov/newsreleases/general/terr/2016/asgdp_080816.pdf",
+        "Date_Published": "2016-08-08"
+    }, {
+        "ID": "16-42",
+        "Title": "U.S International Trade in Goods and Services, June 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/2016/trad0616.htm",
+        "Date_Published": "2016-08-05"
+    }, {
+        "ID": "16-41",
+        "Title": "Personal Income and Outlays, June 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0616.htm",
+        "Date_Published": "2016-08-02"
+    }, {
         "ID": "16-40",
         "Title": "Gross Domestic Product, 2nd quarter 2016 (advance estimate); Annual Update: 2013 through First Quarter 2016",
         "URL": "http://www.bea.gov/newsreleases/national/gdp/2016/gdp2q16_adv.htm",
@@ -5710,139 +5725,139 @@
         "URL": "http://bea.gov/newsreleases/international/trade/1997/trad1196.txt",
         "Date_Published": "1997-01-17"
     }, {
-    "ID": "96-41",
-    "Title": "Personal Income and Outlays, November 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1196.txt",
-    "Date_Published": "1996-12-23"
-}, {
-    "ID": "96-40",
-    "Title": "Gross Domestic Product: Third Quarter 1996 (final)",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396f.txt",
-    "Date_Published": "1996-12-20"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, October 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trd9610.txt",
-    "Date_Published": "1996-12-19"
-}, {
-    "ID": "96-39",
-    "Title": "U.S. International Transactions: Third Quarter 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran396.txt",
-    "Date_Published": "1996-12-10"
-}, {
-    "ID": "96-38",
-    "Title": "Personal Income and Outlays, October 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1096.txt",
-    "Date_Published": "1996-11-29"
-}, {
-    "ID": "96-37",
-    "Title": "Gross Domestic Product: Third Quarter 1996 (preliminary) and Corporate Profits: Third Quarter 1996 (preliminary)",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396p.txt",
-    "Date_Published": "1996-11-27"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, September 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9609.txt",
-    "Date_Published": "1996-11-20"
-}, {
-    "ID": "96-36",
-    "Title": "State Personal Income Second Quarter 1996",
-    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi296.txt",
-    "Date_Published": "1996-11-07"
-}, {
-    "ID": "96-35",
-    "Title": "Personal Income and Outlays, September 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0996.txt",
-    "Date_Published": "1996-10-31"
-}, {
-    "ID": "96-34",
-    "Title": "Gross Domestic Product: Third Quarter 1996 (advance)",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396a.txt",
-    "Date_Published": "1996-10-30"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, August 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9608.txt",
-    "Date_Published": "1996-10-18"
-}, {
-    "ID": "96-33",
-    "Title": "Personal Income and Outlays, August 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0896.txt",
-    "Date_Published": "1996-09-30"
-}, {
-    "ID": "96-32",
-    "Title": "Gross Domestic Product: Second Quarter 1996 (final) and Corporate Profits: Second Quarter 1996 (revised)",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296f.txt",
-    "Date_Published": "1996-09-27"
-}, {
-    "ID": "96-31",
-    "Title": "State Per Capita Personal Income Growth in 1995",
-    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi95.txt",
-    "Date_Published": "1996-09-24"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, July 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9607.txt",
-    "Date_Published": "1996-09-18"
-}, {
-    "ID": "96-30",
-    "Title": "U.S. International Transactions, Second Quarter 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran296.txt",
-    "Date_Published": "1996-09-10"
-}, {
-    "ID": "96-29",
-    "Title": "Pollution Abatement and Control Spending for 1994",
-    "URL": "http://www.bea.gov/newsreleases/general/1996/pol-abt.txt",
-    "Date_Published": "1996-09-09"
-}, {
-    "ID": "96-28",
-    "Title": "Personal Income and Outlays, July 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0796.txt",
-    "Date_Published": "1996-08-30"
-}, {
-    "ID": "96-27",
-    "Title": "Gross Domestic Product: Second Quarter 1996 (preliminary) and Corporate Profits: Second Quarter 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296p.txt",
-    "Date_Published": "1996-08-29"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, June 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9606.txt",
-    "Date_Published": "1996-08-20"
-}, {
-    "ID": "96-26",
-    "Title": "Gross Product by Industry, 1977-94",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gpxind.txt",
-    "Date_Published": "1996-08-08"
-}, {
-    "ID": "96-25",
-    "Title": "Personal Income and Outlays, June 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0696.txt",
-    "Date_Published": "1996-08-02"
-}, {
-    "ID": "96-24",
-    "Title": "Gross Domestic Product: Second Quarter 1996 (advance) and Revised Estimates",
-    "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296a.txt",
-    "Date_Published": "1996-08-01"
-}, {
-    "ID": "96-22",
-    "Title": "State Quarterly Personal Income, First Quarter 1996",
-    "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi196.txt",
-    "Date_Published": "1996-07-24"
-}, {
-    "ID": "N/A",
-    "Title": "U.S. International Trade in Goods and Services, May 1996",
-    "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9605.txt",
-    "Date_Published": "1996-07-18"
-}, {
-    "ID": "96-20",
-    "Title": "International Investment Position of the United States, 1995",
-    "URL": "http://www.bea.gov/newsreleases/international/intinv/1996/int-inv.txt",
-    "Date_Published": "1996-07-02"
-}, {
-    "ID": "96-19",
-    "Title": "Personal Income and Outlays, May 1996",
-    "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0596.txt",
-    "Date_Published": "1996-07-01"
-}]
+        "ID": "96-41",
+        "Title": "Personal Income and Outlays, November 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1196.txt",
+        "Date_Published": "1996-12-23"
+    }, {
+        "ID": "96-40",
+        "Title": "Gross Domestic Product: Third Quarter 1996 (final)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396f.txt",
+        "Date_Published": "1996-12-20"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, October 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trd9610.txt",
+        "Date_Published": "1996-12-19"
+    }, {
+        "ID": "96-39",
+        "Title": "U.S. International Transactions: Third Quarter 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran396.txt",
+        "Date_Published": "1996-12-10"
+    }, {
+        "ID": "96-38",
+        "Title": "Personal Income and Outlays, October 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi1096.txt",
+        "Date_Published": "1996-11-29"
+    }, {
+        "ID": "96-37",
+        "Title": "Gross Domestic Product: Third Quarter 1996 (preliminary) and Corporate Profits: Third Quarter 1996 (preliminary)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396p.txt",
+        "Date_Published": "1996-11-27"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, September 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9609.txt",
+        "Date_Published": "1996-11-20"
+    }, {
+        "ID": "96-36",
+        "Title": "State Personal Income Second Quarter 1996",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi296.txt",
+        "Date_Published": "1996-11-07"
+    }, {
+        "ID": "96-35",
+        "Title": "Personal Income and Outlays, September 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0996.txt",
+        "Date_Published": "1996-10-31"
+    }, {
+        "ID": "96-34",
+        "Title": "Gross Domestic Product: Third Quarter 1996 (advance)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp396a.txt",
+        "Date_Published": "1996-10-30"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, August 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9608.txt",
+        "Date_Published": "1996-10-18"
+    }, {
+        "ID": "96-33",
+        "Title": "Personal Income and Outlays, August 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0896.txt",
+        "Date_Published": "1996-09-30"
+    }, {
+        "ID": "96-32",
+        "Title": "Gross Domestic Product: Second Quarter 1996 (final) and Corporate Profits: Second Quarter 1996 (revised)",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296f.txt",
+        "Date_Published": "1996-09-27"
+    }, {
+        "ID": "96-31",
+        "Title": "State Per Capita Personal Income Growth in 1995",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi95.txt",
+        "Date_Published": "1996-09-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, July 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9607.txt",
+        "Date_Published": "1996-09-18"
+    }, {
+        "ID": "96-30",
+        "Title": "U.S. International Transactions, Second Quarter 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/1996/tran296.txt",
+        "Date_Published": "1996-09-10"
+    }, {
+        "ID": "96-29",
+        "Title": "Pollution Abatement and Control Spending for 1994",
+        "URL": "http://www.bea.gov/newsreleases/general/1996/pol-abt.txt",
+        "Date_Published": "1996-09-09"
+    }, {
+        "ID": "96-28",
+        "Title": "Personal Income and Outlays, July 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0796.txt",
+        "Date_Published": "1996-08-30"
+    }, {
+        "ID": "96-27",
+        "Title": "Gross Domestic Product: Second Quarter 1996 (preliminary) and Corporate Profits: Second Quarter 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296p.txt",
+        "Date_Published": "1996-08-29"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, June 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9606.txt",
+        "Date_Published": "1996-08-20"
+    }, {
+        "ID": "96-26",
+        "Title": "Gross Product by Industry, 1977-94",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gpxind.txt",
+        "Date_Published": "1996-08-08"
+    }, {
+        "ID": "96-25",
+        "Title": "Personal Income and Outlays, June 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0696.txt",
+        "Date_Published": "1996-08-02"
+    }, {
+        "ID": "96-24",
+        "Title": "Gross Domestic Product: Second Quarter 1996 (advance) and Revised Estimates",
+        "URL": "http://www.bea.gov/newsreleases/national/gdp/1996/gdp296a.txt",
+        "Date_Published": "1996-08-01"
+    }, {
+        "ID": "96-22",
+        "Title": "State Quarterly Personal Income, First Quarter 1996",
+        "URL": "http://www.bea.gov/newsreleases/regional/spi/1996/spi196.txt",
+        "Date_Published": "1996-07-24"
+    }, {
+        "ID": "N/A",
+        "Title": "U.S. International Trade in Goods and Services, May 1996",
+        "URL": "http://www.bea.gov/newsreleases/international/trade/1996/trad9605.txt",
+        "Date_Published": "1996-07-18"
+    }, {
+        "ID": "96-20",
+        "Title": "International Investment Position of the United States, 1995",
+        "URL": "http://www.bea.gov/newsreleases/international/intinv/1996/int-inv.txt",
+        "Date_Published": "1996-07-02"
+    }, {
+        "ID": "96-19",
+        "Title": "Personal Income and Outlays, May 1996",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/1996/pi0596.txt",
+        "Date_Published": "1996-07-01"
+    }]
 }
