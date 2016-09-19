@@ -1,5 +1,30 @@
 {
     "data": [{
+        "ID": "16-48",
+        "Title": "U.S. International Transactions, 2nd quarter 2016",
+        "URL": "http://www.bea.gov/newsreleases/international/transactions/2016/trans216.htm",
+        "Date_Published": "2016-09-15"
+      },{
+        "ID": "16-47",
+        "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2016",
+        "URL": "http://www.bea.gov/newsreleases/industry/tourism/2016/tour216.htm",
+        "Date_Published": "2016-09-14"
+      },{
+        "ID": "16-46",
+        "Title": "U.S. International Trade in Goods and Services, July 2016",
+        "URL": "http://bea.gov/newsreleases/international/trade/2016/trad0716.htm",
+        "Date_Published": "2016-09-02"
+      },{
+        "ID": "16-45",
+        "Title": "Personal Income and Outlays, July 2016",
+        "URL": "http://www.bea.gov/newsreleases/national/pi/2016/pi0716.htm",
+        "Date_Published": "2016-08-29"
+      },{
+        "ID": "16-44",
+        "Title": "Gross Domestic Product, 2nd quarter 2016 (second estimate); Corporate Profits, 2nd quarter 2016 (preliminary estimate)",
+        "URL": "http://www.bea.gov/newsreleases/newsreleases/national/gdp/2016/gdp2q16_2nd.htm",
+        "Date_Published": "2016-08-26"
+    },{
         "ID": "16-43",
         "Title": "Gross Domestic Product for American Somoa, 2016",
         "URL": "http://www.bea.gov/newsreleases/general/terr/2016/asgdp_080816.pdf",
