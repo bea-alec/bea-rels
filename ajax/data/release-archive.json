@@ -1,5 +1,15 @@
 {
     "data": [{
+        "ID": "16-50",
+        "Title": "Gross Domestic Product for Guam, 2015",
+        "URL": "http://www.bea.gov/newsreleases/general/terr/2016/guamgdp_092116.pdf",
+        "Date_Published:": "2016-09-21"
+      },{
+        "ID": "16-49",
+        "Title": "Gross Domestic Product by Metropolitan Area, 2015",
+        "URL": "http://www.bea.gov/newsreleases/regional/gdp_metro/2016/gdp_metro0916.htm",
+        "Date_Published:": "2016-09-20"
+      },{
         "ID": "16-48",
         "Title": "U.S. International Transactions, 2nd quarter 2016",
         "URL": "http://www.bea.gov/newsreleases/international/transactions/2016/trans216.htm",
