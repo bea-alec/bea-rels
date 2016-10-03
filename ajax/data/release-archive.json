@@ -1,50 +1,60 @@
 {
     "data": [{
+        "ID": "16-54",
+        "Title": "Personal Income and Outlays, August 2016",
+        "URL": "http://bea.gov/newsreleases/national/pi/2016/pi0816.htm",
+        "Date_Published": "2016-09-30"
+    }, {
+        "ID": "16-53",
+        "Title": "Gross Domestic Product, 2nd quarter 2016 (third estimate); Corporate Profits, 2nd quarter 2016 (revised estimate)",
+        "URL": "http://bea.gov/newsreleases/national/gdp/2016/gdp2q16_3rd.htm",
+        "Date_Published": "2016-09-29"
+    }, {
         "ID": "16-52",
         "Title": "State Quarterly Personal Income, 2nd quarter 2016; State Annual Personal Income, 2015",
         "URL": "http://bea.gov/newsreleases/regional/spi/2016/spi0916.htm",
         "Date_Published": "2016-09-28"
-      },{
+    }, {
         "ID": "16-51",
         "Title": "U.S. International Investment Position, 2nd quarter 2016",
         "URL": "http://bea.gov/newsreleases/international/intinv/2016/intinv216.htm",
         "Date_Published": "2016-09-27"
-      },{
+    }, {
         "ID": "16-50",
         "Title": "Gross Domestic Product for Guam, 2015",
         "URL": "http://bea.gov/newsreleases/general/terr/2016/guamgdp_092116.pdf",
         "Date_Published": "2016-09-21"
-      },{
+    }, {
         "ID": "16-49",
         "Title": "Gross Domestic Product by Metropolitan Area, 2015",
         "URL": "http://bea.gov/newsreleases/regional/gdp_metro/2016/gdp_metro0916.htm",
         "Date_Published": "2016-09-20"
-      },{
+    }, {
         "ID": "16-48",
         "Title": "U.S. International Transactions, 2nd quarter 2016",
         "URL": "http://bea.gov/newsreleases/international/transactions/2016/trans216.htm",
         "Date_Published": "2016-09-15"
-      },{
+    }, {
         "ID": "16-47",
         "Title": "Travel and Tourism Satellite Accounts, 2nd quarter 2016",
         "URL": "http://bea.gov/newsreleases/industry/tourism/2016/tour216.htm",
         "Date_Published": "2016-09-14"
-      },{
+    }, {
         "ID": "16-46",
         "Title": "U.S. International Trade in Goods and Services, July 2016",
         "URL": "http://bea.gov/newsreleases/international/trade/2016/trad0716.htm",
         "Date_Published": "2016-09-02"
-      },{
+    }, {
         "ID": "16-45",
         "Title": "Personal Income and Outlays, July 2016",
         "URL": "http://bea.gov/newsreleases/national/pi/2016/pi0716.htm",
         "Date_Published": "2016-08-29"
-      },{
+    }, {
         "ID": "16-44",
         "Title": "Gross Domestic Product, 2nd quarter 2016 (second estimate); Corporate Profits, 2nd quarter 2016 (preliminary estimate)",
         "URL": "http://bea.gov/newsreleases/newsreleases/national/gdp/2016/gdp2q16_2nd.htm",
         "Date_Published": "2016-08-26"
-    },{
+    }, {
         "ID": "16-43",
         "Title": "Gross Domestic Product for American Somoa, 2016",
         "URL": "http://bea.gov/newsreleases/general/terr/2016/asgdp_080816.pdf",
