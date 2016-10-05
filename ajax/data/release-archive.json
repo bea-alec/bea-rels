@@ -1,5 +1,15 @@
 {
     "data": [{
+        "ID": "16-56",
+        "Title": "U.S. International Trade in Goods and Services, August 2016",
+        "URL": "http://bea.gov/newsreleases/international/trade/2016/trad0816.htm",
+        "Date_Published": "2016-10-05"
+    }, {
+        "ID": "16-55",
+        "Title": "Personal Consumption Expenditures by State, 2015",
+        "URL": "http://bea.gov/newsreleases/regional/pce/2016/pce1016.htm",
+        "Date_Published": "2016-10-04"
+    }, {
         "ID": "16-54",
         "Title": "Personal Income and Outlays, August 2016",
         "URL": "http://bea.gov/newsreleases/national/pi/2016/pi0816.htm",
